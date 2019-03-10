@@ -1,0 +1,2795 @@
+{
+  "data": {
+    "identity": {
+      "saved": {
+        "pageInfo": {
+          "hasNextPage": true,
+          "hasPreviousPage": true,
+          "startCursor": "dDNfYTdzajFk",
+          "endCursor": "dDNfYTR2bnJv"
+        },
+        "edges": [
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-20T00:44:07.298000+0000",
+              "crosspostCount": 0,
+              "domain": "self.webdev",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a7sj1d",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": true,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a7sj1d?m=AQAACqqGXF_727_hoKvPungEAY_kCBb5ui9j7gEo7JsGMdf_joSE",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://www.reddit.com/r/webdev/comments/a7sj1d/node_js_for_beginners_restful_api_app_creating/"
+              },
+              "permalink": "/r/webdev/comments/a7sj1d/node_js_for_beginners_restful_api_app_creating/",
+              "score": 16.0,
+              "suggestedCommentSort": null,
+              "title": "Node JS for Beginners - Restful API App - Creating GET API and Testing our Routes.",
+              "url": "https://www.reddit.com/r/webdev/comments/a7sj1d/node_js_for_beginners_restful_api_app_creating/",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_20751ky4",
+                "name": "WebDevJourneyWDJ"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 5.0,
+              "content": {
+                "markdown": "Today we are going to be creating a GET route to grab all of our todos and also going to be testing the POST route,  from the last video, and this new route that we are going to create with mocha.\n\n[https://youtu.be/BIhMjXbCOmA](https://youtu.be/BIhMjXbCOmA)",
+                "richtext": "{\"document\": [{\"c\": [{\"e\": \"text\", \"t\": \"Today we are going to be creating a GET route to grab all of our todos and also going to be testing the POST route,  from the last video, and this new route that we are going to create with mocha.\"}], \"e\": \"par\"}, {\"c\": [{\"e\": \"link\", \"t\": \"https://youtu.be/BIhMjXbCOmA\", \"u\": \"https://youtu.be/BIhMjXbCOmA\"}], \"e\": \"par\"}]}",
+                "richtextMedia": []
+              },
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/4imAt0gvSYM3ngXFMe2z_PNb2FHDZgLTi7Zg2BkZ4ZU.jpg?auto=webp&s=0c5a558d8e4bb3f0bc0790b84c54102c1fe6dd2e",
+                    "dimensions": { "width": 480, "height": 360 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/4imAt0gvSYM3ngXFMe2z_PNb2FHDZgLTi7Zg2BkZ4ZU.jpg?width=108&height=81&crop=smart&auto=webp&s=5cacd0d0e7eee23f4826a82a1b887a405e74ae92",
+                    "dimensions": { "width": 108, "height": 81 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/4imAt0gvSYM3ngXFMe2z_PNb2FHDZgLTi7Zg2BkZ4ZU.jpg?width=216&height=162&crop=smart&auto=webp&s=81681c0dca5dd5f188c4315ddd751abe0a8755f4",
+                    "dimensions": { "width": 216, "height": 162 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/4imAt0gvSYM3ngXFMe2z_PNb2FHDZgLTi7Zg2BkZ4ZU.jpg?width=320&height=240&crop=smart&auto=webp&s=a15957be72108306e20e3f4c66c64915202b51ac",
+                    "dimensions": { "width": 320, "height": 240 }
+                  },
+                  "xlarge": null,
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": null,
+              "upvoteRatio": 0.8076923076923077,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qs0q",
+                "styles": {
+                  "legacyIcon": {
+                    "dimensions": { "width": 256, "height": 256 },
+                    "url": "https://b.thumbs.redditmedia.com/vk8EAqzcLRGYh_Yisi68CglMMuheNEFKNaDLZy7h2ZE.png"
+                  },
+                  "primaryColor": "#BE2F2F",
+                  "icon": "https://styles.redditmedia.com/t5_2qs0q/styles/communityIcon_03gmzdso8rm01.png"
+                },
+                "name": "webdev",
+                "subscribers": 309407.0,
+                "title": "webdev: reddit for web developers",
+                "type": "PUBLIC",
+                "path": "/r/webdev/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/webdev",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-19T19:23:54.585000+0000",
+              "crosspostCount": 1,
+              "domain": "self.reactnative",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a7plqu",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": true,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a7plqu?m=AQAACqqGXLWkKoM-OUqsuGAqFN-PxfGm2JEjjcfvbSyMiWu1Tx74",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://www.reddit.com/r/reactnative/comments/a7plqu/my_react_native_app_eaten_got_featured_in_new/"
+              },
+              "permalink": "/r/reactnative/comments/a7plqu/my_react_native_app_eaten_got_featured_in_new/",
+              "score": 130.0,
+              "suggestedCommentSort": null,
+              "title": "My React Native app, Eaten, got featured in \"New apps we love\" by Apple!",
+              "url": "https://www.reddit.com/r/reactnative/comments/a7plqu/my_react_native_app_eaten_got_featured_in_new/",
+              "whitelistStatus": "HOUSE_ONLY",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_p8lmijx",
+                "name": "teiamt"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 57.0,
+              "content": {
+                "markdown": "I'd read that to get featured you should program in Swift and use cutting edge features eg AR KIT, so ironically I never applied to be featured. Apparently React Native is considered good enough now! \n\n&#x200B;\n\nThe idea of the app is to be able to answer searches such as \"Where is the best steak tartare near here?\" Or \"what should I order at this restaurant?\". It does this by asking users to review the food they ate rather than the restaurant.\n\n&#x200B;\n\n[https://itunes.apple.com/GB/app/id1171712306?mt=8](https://itunes.apple.com/GB/app/id1171712306?mt=8)",
+                "richtext": "{\"document\": [{\"c\": [{\"e\": \"text\", \"t\": \"I'd read that to get featured you should program in Swift and use cutting edge features eg AR KIT, so ironically I never applied to be featured. Apparently React Native is considered good enough now!\"}], \"e\": \"par\"}, {\"c\": [], \"e\": \"par\"}, {\"c\": [{\"e\": \"text\", \"t\": \"The idea of the app is to be able to answer searches such as \\\"Where is the best steak tartare near here?\\\" Or \\\"what should I order at this restaurant?\\\". It does this by asking users to review the food they ate rather than the restaurant.\"}], \"e\": \"par\"}, {\"c\": [], \"e\": \"par\"}, {\"c\": [{\"e\": \"link\", \"t\": \"https://itunes.apple.com/GB/app/id1171712306?mt=8\", \"u\": \"https://itunes.apple.com/GB/app/id1171712306?mt=8\"}], \"e\": \"par\"}]}",
+                "richtextMedia": []
+              },
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/6GxORG13H5PwFDTn5GehM9XeaXd2i8vilTcDglXpQnc.jpg?auto=webp&s=d0b21d7373e96b7710bca43962322f7f6507bac4",
+                    "dimensions": { "width": 1200, "height": 630 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/6GxORG13H5PwFDTn5GehM9XeaXd2i8vilTcDglXpQnc.jpg?width=108&height=56&crop=smart&auto=webp&s=50096dbf4a1a5162f44ce52e9868fdc34e5be459",
+                    "dimensions": { "width": 108, "height": 56 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/6GxORG13H5PwFDTn5GehM9XeaXd2i8vilTcDglXpQnc.jpg?width=216&height=113&crop=smart&auto=webp&s=b2b61ee5ea3e1dc87b9de625ec77587ac5adac92",
+                    "dimensions": { "width": 216, "height": 113 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/6GxORG13H5PwFDTn5GehM9XeaXd2i8vilTcDglXpQnc.jpg?width=320&height=168&crop=smart&auto=webp&s=67b2f50a3ad9e911ad542e74802857554df207f0",
+                    "dimensions": { "width": 320, "height": 168 }
+                  },
+                  "xlarge": {
+                    "url": "https://external-preview.redd.it/6GxORG13H5PwFDTn5GehM9XeaXd2i8vilTcDglXpQnc.jpg?width=640&height=336&crop=smart&auto=webp&s=88105e635d732765d466bcce5ac40dd9d19c44d9",
+                    "dimensions": { "width": 640, "height": 336 }
+                  },
+                  "xxlarge": {
+                    "url": "https://external-preview.redd.it/6GxORG13H5PwFDTn5GehM9XeaXd2i8vilTcDglXpQnc.jpg?width=960&height=504&crop=smart&auto=webp&s=2fac7f0c3705fe014b8d91b0d346a575b4522e8e",
+                    "dimensions": { "width": 960, "height": 504 }
+                  },
+                  "xxxlarge": {
+                    "url": "https://external-preview.redd.it/6GxORG13H5PwFDTn5GehM9XeaXd2i8vilTcDglXpQnc.jpg?width=1080&height=567&crop=smart&auto=webp&s=d89c9106c5be07916c57874e1edc8a3aa140a343",
+                    "dimensions": { "width": 1080, "height": 567 }
+                  }
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": null,
+              "upvoteRatio": 0.9924242424242424,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_37k5y",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": null,
+                  "icon": "https://styles.redditmedia.com/t5_37k5y/styles/communityIcon_l6csp31tu5e21.png"
+                },
+                "name": "reactnative",
+                "subscribers": 20761.0,
+                "title": "React Native - Building Native Mobile Apps w/JavaScript",
+                "type": "PUBLIC",
+                "path": "/r/reactnative/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "HOUSE_ONLY",
+                "prefixedName": "r/reactnative",
+                "postFlairSettings": { "position": "LEFT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-18T16:29:39.314000+0000",
+              "crosspostCount": 0,
+              "domain": "reddit.com",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [
+                {
+                  "type": { "id": "gid_1", "displayName": "silver" },
+                  "total": 1
+                }
+              ],
+              "id": "t3_a7cktz",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a7cktz?m=AQAACqqGXDFWQgbqN1uQ4Kmr3ksHTUxs7V-bDSE-Jdfd0StnUd1f",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://www.reddit.com/r/web_design/comments/a79zlr/%F0%9D%99%B8_%F0%9D%9A%96%F0%9D%9A%8A%F0%9D%9A%8D%F0%9D%9A%8E_%F0%9D%9A%8A_%F0%9D%9A%A0%F0%9D%9A%8E%F0%9D%9A%8B%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%8E_%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%9D_%F0%9D%9A%95%F0%9D%9A%8E%F0%9D%9A%9D%F0%9D%9A%9C_%F0%9D%9A%A2%F0%9D%9A%98%F0%9D%9A%9E_%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%8E_%F0%9D%95%B1%F0%9D%96%86%F0%9D%96%93%F0%9D%96%88%F0%9D%96%9E_%F0%9D%95%B1%F0%9D%96%94%F0%9D%96%93%F0%9D%96%99%F0%9D%96%98/"
+              },
+              "permalink": "/r/webdev/comments/a7cktz/rweb_design_has_gone_nuts_\ud835\ude78_\ud835\ude96\ud835\ude8a\ud835\ude8d\ud835\ude8e_\ud835\ude8a_\ud835\udea0\ud835\ude8e\ud835\ude8b\ud835\ude9c\ud835\ude92\ud835\ude9d\ud835\ude8e_\ud835\ude9d\ud835\ude91\ud835\ude8a\ud835\ude9d/",
+              "score": 710.0,
+              "suggestedCommentSort": null,
+              "title": "r/web_design has gone nuts: \ud835\ude78 \ud835\ude96\ud835\ude8a\ud835\ude8d\ud835\ude8e \ud835\ude8a \ud835\udea0\ud835\ude8e\ud835\ude8b\ud835\ude9c\ud835\ude92\ud835\ude9d\ud835\ude8e \ud835\ude9d\ud835\ude91\ud835\ude8a\ud835\ude9d \ud835\ude95\ud835\ude8e\ud835\ude9d\ud835\ude9c \ud835\udea2\ud835\ude98\ud835\ude9e \ud835\ude9e\ud835\ude9c\ud835\ude8e \ud835\udd71\ud835\udd86\ud835\udd93\ud835\udd88\ud835\udd9e \ud835\udd71\ud835\udd94\ud835\udd93\ud835\udd99\ud835\udd98 \ud835\udd52\ud835\udd5f\ud835\udd6a\ud835\udd68\ud835\udd59\ud835\udd56\ud835\udd63\ud835\udd56 \ud835\udd60\ud835\udd5f \ud835\udd65\ud835\udd59\ud835\udd56 \ud835\udd5a\ud835\udd5f\ud835\udd65\ud835\udd56\ud835\udd63\ud835\udd5f\ud835\udd56\ud835\udd65.",
+              "url": "https://www.reddit.com/r/web_design/comments/a79zlr/%F0%9D%99%B8_%F0%9D%9A%96%F0%9D%9A%8A%F0%9D%9A%8D%F0%9D%9A%8E_%F0%9D%9A%8A_%F0%9D%9A%A0%F0%9D%9A%8E%F0%9D%9A%8B%F0%9D%9A%9C%F0%9D%9A%92%F0%9D%9A%9D%F0%9D%9A%8E_%F0%9D%9A%9D%F0%9D%9A%91%F0%9D%9A%8A%F0%9D%9A%9D_%F0%9D%9A%95%F0%9D%9A%8E%F0%9D%9A%9D%F0%9D%9A%9C_%F0%9D%9A%A2%F0%9D%9A%98%F0%9D%9A%9E_%F0%9D%9A%9E%F0%9D%9A%9C%F0%9D%9A%8E_%F0%9D%95%B1%F0%9D%96%86%F0%9D%96%93%F0%9D%96%88%F0%9D%96%9E_%F0%9D%95%B1%F0%9D%96%94%F0%9D%96%93%F0%9D%96%99%F0%9D%96%98/",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_e22p9",
+                "name": "Stanulilic"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 114.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/X3dq7BwWSNeUHhYVAwg9EWZnzdW0rDaEwG8X76Th8PI.jpg?auto=webp&s=41609c39ac55f81573d212eaf4cf408bb74a3170",
+                    "dimensions": { "width": 256, "height": 256 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/X3dq7BwWSNeUHhYVAwg9EWZnzdW0rDaEwG8X76Th8PI.jpg?width=108&height=108&crop=smart&auto=webp&s=e32b139a5136a92ba10b5757780db632a6f6014f",
+                    "dimensions": { "width": 108, "height": 108 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/X3dq7BwWSNeUHhYVAwg9EWZnzdW0rDaEwG8X76Th8PI.jpg?width=216&height=216&crop=smart&auto=webp&s=d7e7f07e16f418a277346afc352f978aeb98790c",
+                    "dimensions": { "width": 216, "height": 216 }
+                  },
+                  "large": null,
+                  "xlarge": null,
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/aI7G7T40c5QUYhfbLP7KAFPlhEU3Wx4RjLxx78Dg-iI.jpg",
+                "dimensions": { "width": 140, "height": 140 }
+              },
+              "upvoteRatio": 0.9070034443168772,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qs0q",
+                "styles": {
+                  "legacyIcon": {
+                    "dimensions": { "width": 256, "height": 256 },
+                    "url": "https://b.thumbs.redditmedia.com/vk8EAqzcLRGYh_Yisi68CglMMuheNEFKNaDLZy7h2ZE.png"
+                  },
+                  "primaryColor": "#BE2F2F",
+                  "icon": "https://styles.redditmedia.com/t5_2qs0q/styles/communityIcon_03gmzdso8rm01.png"
+                },
+                "name": "webdev",
+                "subscribers": 309407.0,
+                "title": "webdev: reddit for web developers",
+                "type": "PUBLIC",
+                "path": "/r/webdev/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/webdev",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-18T11:02:37.726000+0000",
+              "crosspostCount": 0,
+              "domain": "medium.com",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a7a43c",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a7a43c?m=AQAACqqGXAbndXhdD5xz11KH28rVstbCbigCqZDe3MehTow8KI8R",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a7a43c?app_name=web2x&token=AQAAmmaFXAgFepRqFWRdp6NbBsMG_3qAOV6CDrr-iobKvQsuWcs4&url=https%3A%2F%2Fmedium.com%2F%40me_37286%2F19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38"
+              },
+              "permalink": "/r/node/comments/a7a43c/19_ways_to_become_a_better_nodejs_developer_in/",
+              "score": 125.0,
+              "suggestedCommentSort": null,
+              "title": "19 ways to become a better Node.JS developer in 2019",
+              "url": "https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_13ptsa",
+                "name": "r-wabbit"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 12.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/XS6Em_gvcZAcGGN78QKDZ18jpw8s40un1wqikTTS6PY.jpg?auto=webp&s=4afeb0dc2faa63c1e4fb6364c40530cf94d00418",
+                    "dimensions": { "width": 1200, "height": 800 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/XS6Em_gvcZAcGGN78QKDZ18jpw8s40un1wqikTTS6PY.jpg?width=108&height=72&crop=smart&auto=webp&s=7a300ab45334637164c2c7868a0d7a0dea6078ed",
+                    "dimensions": { "width": 108, "height": 72 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/XS6Em_gvcZAcGGN78QKDZ18jpw8s40un1wqikTTS6PY.jpg?width=216&height=144&crop=smart&auto=webp&s=38bc6b130e5c5cc1e19dd4930eef2630ba08a014",
+                    "dimensions": { "width": 216, "height": 144 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/XS6Em_gvcZAcGGN78QKDZ18jpw8s40un1wqikTTS6PY.jpg?width=320&height=213&crop=smart&auto=webp&s=0cd41b60fad346db6e8800e708d0d7bf30bc5be7",
+                    "dimensions": { "width": 320, "height": 213 }
+                  },
+                  "xlarge": {
+                    "url": "https://external-preview.redd.it/XS6Em_gvcZAcGGN78QKDZ18jpw8s40un1wqikTTS6PY.jpg?width=640&height=426&crop=smart&auto=webp&s=2734caf44c2aad343b96a8bafbf2d75126b95c28",
+                    "dimensions": { "width": 640, "height": 426 }
+                  },
+                  "xxlarge": {
+                    "url": "https://external-preview.redd.it/XS6Em_gvcZAcGGN78QKDZ18jpw8s40un1wqikTTS6PY.jpg?width=960&height=640&crop=smart&auto=webp&s=a89893c4e73089c43928408f789b31050e5a2c51",
+                    "dimensions": { "width": 960, "height": 640 }
+                  },
+                  "xxxlarge": {
+                    "url": "https://external-preview.redd.it/XS6Em_gvcZAcGGN78QKDZ18jpw8s40un1wqikTTS6PY.jpg?width=1080&height=720&crop=smart&auto=webp&s=c57deb672436ef45b3670e51adc7bc101762105e",
+                    "dimensions": { "width": 1080, "height": 720 }
+                  }
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/jZjPHiYTwiLGw72iVlog-v5q-K7d8t1bT6vjuJqE8qc.jpg",
+                "dimensions": { "width": 140, "height": 93 }
+              },
+              "upvoteRatio": 0.9139072847682119,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2reca",
+                "styles": {
+                  "legacyIcon": {
+                    "dimensions": { "width": 256, "height": 256 },
+                    "url": "https://b.thumbs.redditmedia.com/8RJ1zsSxLbTrSrRAhziwMynfkWVcuFNMXPsLqtGct1o.png"
+                  },
+                  "primaryColor": null,
+                  "icon": null
+                },
+                "name": "node",
+                "subscribers": 104746.0,
+                "title": "node.js",
+                "type": "PUBLIC",
+                "path": "/r/node/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/node",
+                "postFlairSettings": { "position": null, "isEnabled": false },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": false,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-18T20:44:59.657000+0000",
+              "crosspostCount": 0,
+              "domain": "usethyme.com",
+              "editedAt": null,
+              "flair": {
+                "richtext": null,
+                "text": "Show /r/reactjs",
+                "type": "text",
+                "textColor": "DARK",
+                "template": {
+                  "id": "bd8d97ec-8520-11e8-9179-0e39e47dc3fc",
+                  "type": "text",
+                  "text": "Show /r/reactjs",
+                  "richtext": null,
+                  "textColor": "DARK",
+                  "backgroundColor": null
+                }
+              },
+              "gildingTotals": [],
+              "id": "t3_a7f17d",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a7f17d?m=AQAACqqGXFomSEaH_nlOEk_GxeejuvYsG1zhcyq_M1eT18yKe0Qn",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a7f17d?app_name=web2x&token=AQAAmmaFXJJ94umyRuI2G2ratkmiaPQ7UJj7nt6HEZmA7hnvA1yJ&url=https%3A%2F%2Fusethyme.com"
+              },
+              "permalink": "/r/reactjs/comments/a7f17d/created_a_time_tracker_in_react_last_year_as_a/",
+              "score": 148.0,
+              "suggestedCommentSort": "CONFIDENCE",
+              "title": "Created a time tracker in React last year as a side project and it got a little bit out of hand",
+              "url": "https://usethyme.com",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_54qor",
+                "name": "snotkuif"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 36.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/nhmXC334_PJ-yMsM5ny_mr9IYazlalSoWsPYpb60vBg.jpg?auto=webp&s=5d84b00e56f22ed14a4c4c8faa41e2b1a3d1c15d",
+                    "dimensions": { "width": 2421, "height": 1400 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/nhmXC334_PJ-yMsM5ny_mr9IYazlalSoWsPYpb60vBg.jpg?width=108&height=62&crop=smart&auto=webp&s=85abd1cd1443867d4cca328b2af641b0c2c083a0",
+                    "dimensions": { "width": 108, "height": 62 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/nhmXC334_PJ-yMsM5ny_mr9IYazlalSoWsPYpb60vBg.jpg?width=216&height=124&crop=smart&auto=webp&s=5f984f0e87ca19bc9ed83d1a4ca08f1e145dacc8",
+                    "dimensions": { "width": 216, "height": 124 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/nhmXC334_PJ-yMsM5ny_mr9IYazlalSoWsPYpb60vBg.jpg?width=320&height=185&crop=smart&auto=webp&s=90dfab359ae3d74f455176cf0cfa848f6820fe43",
+                    "dimensions": { "width": 320, "height": 185 }
+                  },
+                  "xlarge": {
+                    "url": "https://external-preview.redd.it/nhmXC334_PJ-yMsM5ny_mr9IYazlalSoWsPYpb60vBg.jpg?width=640&height=370&crop=smart&auto=webp&s=9c16821b610ac7dc2647b620dc4b7c0b93cebe1d",
+                    "dimensions": { "width": 640, "height": 370 }
+                  },
+                  "xxlarge": {
+                    "url": "https://external-preview.redd.it/nhmXC334_PJ-yMsM5ny_mr9IYazlalSoWsPYpb60vBg.jpg?width=960&height=555&crop=smart&auto=webp&s=68a4b9a4aac14713bd7dbbbb46e3b2a53ede8112",
+                    "dimensions": { "width": 960, "height": 555 }
+                  },
+                  "xxxlarge": {
+                    "url": "https://external-preview.redd.it/nhmXC334_PJ-yMsM5ny_mr9IYazlalSoWsPYpb60vBg.jpg?width=1080&height=624&crop=smart&auto=webp&s=a6d744cced1d83d520677e9ca15117d4ed2e0433",
+                    "dimensions": { "width": 1080, "height": 624 }
+                  }
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/WB6VvkXKIzwrZkEucZBJ751G_IV0aafHteFGqYOiG2w.jpg",
+                "dimensions": { "width": 140, "height": 80 }
+              },
+              "upvoteRatio": 0.9743589743589743,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2zldd",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#014980",
+                  "icon": "https://styles.redditmedia.com/t5_2zldd/styles/communityIcon_12zd9qt7we121.jpg"
+                },
+                "name": "reactjs",
+                "subscribers": 100099.0,
+                "title": "ReactJS - Building Web Apps w/JavaScript",
+                "type": "PUBLIC",
+                "path": "/r/reactjs/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/reactjs",
+                "postFlairSettings": { "position": "LEFT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-18T08:47:32.443000+0000",
+              "crosspostCount": 0,
+              "domain": "react.christmas",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a79cwv",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a79cwv?m=AQAACqqGXNoOBo0x-rnhfT78tSkBpaRb5SN8vUoSKCWceQ2qcSWP",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a79cwv?app_name=web2x&token=AQAAmmaFXGpP8p2JMAknx7PuqmzIbJ0f6zk7xp_LqlUfR33vtKvE&url=https%3A%2F%2Freact.christmas%2F2018%2F18"
+              },
+              "permalink": "/r/reactjs/comments/a79cwv/how_to_use_svgs_in_react/",
+              "score": 57.0,
+              "suggestedCommentSort": "CONFIDENCE",
+              "title": "How to use SVGs in React",
+              "url": "https://react.christmas/2018/18",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_rwysa",
+                "name": "selbekk"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 30.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/vA1q8weuW5jRIRqLIqmImf6iqCrH3AcwnqHFPIjwaU8.jpg?auto=webp&s=91fc900cba1105fce1ee867f8116db7f78efd980",
+                    "dimensions": { "width": 1600, "height": 750 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/vA1q8weuW5jRIRqLIqmImf6iqCrH3AcwnqHFPIjwaU8.jpg?width=108&height=50&crop=smart&auto=webp&s=3d67fcbdaa1b1c20ec41a6c2ebe7d90beec97629",
+                    "dimensions": { "width": 108, "height": 50 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/vA1q8weuW5jRIRqLIqmImf6iqCrH3AcwnqHFPIjwaU8.jpg?width=216&height=101&crop=smart&auto=webp&s=3b9901986eeaaf134c5d2887b8fbc7fb16e34253",
+                    "dimensions": { "width": 216, "height": 101 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/vA1q8weuW5jRIRqLIqmImf6iqCrH3AcwnqHFPIjwaU8.jpg?width=320&height=150&crop=smart&auto=webp&s=546692b78a4b342ba54597a476555149de193407",
+                    "dimensions": { "width": 320, "height": 150 }
+                  },
+                  "xlarge": {
+                    "url": "https://external-preview.redd.it/vA1q8weuW5jRIRqLIqmImf6iqCrH3AcwnqHFPIjwaU8.jpg?width=640&height=300&crop=smart&auto=webp&s=6322aecac5ff417e83cd8aff783c6f7320ade524",
+                    "dimensions": { "width": 640, "height": 300 }
+                  },
+                  "xxlarge": {
+                    "url": "https://external-preview.redd.it/vA1q8weuW5jRIRqLIqmImf6iqCrH3AcwnqHFPIjwaU8.jpg?width=960&height=450&crop=smart&auto=webp&s=066b921f2b84fb8b18839e0593969403c9a5d6c5",
+                    "dimensions": { "width": 960, "height": 450 }
+                  },
+                  "xxxlarge": {
+                    "url": "https://external-preview.redd.it/vA1q8weuW5jRIRqLIqmImf6iqCrH3AcwnqHFPIjwaU8.jpg?width=1080&height=506&crop=smart&auto=webp&s=2f1917f8e6e05deac007f46b130fcaea3d04c321",
+                    "dimensions": { "width": 1080, "height": 506 }
+                  }
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/4ZO38z-bjHFdmPQOt95bLgJhEgBr0mXch4FPBW4_tjY.jpg",
+                "dimensions": { "width": 140, "height": 65 }
+              },
+              "upvoteRatio": 0.7938144329896907,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2zldd",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#014980",
+                  "icon": "https://styles.redditmedia.com/t5_2zldd/styles/communityIcon_12zd9qt7we121.jpg"
+                },
+                "name": "reactjs",
+                "subscribers": 100099.0,
+                "title": "ReactJS - Building Web Apps w/JavaScript",
+                "type": "PUBLIC",
+                "path": "/r/reactjs/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/reactjs",
+                "postFlairSettings": { "position": "LEFT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-17T13:45:59.145000+0000",
+              "crosspostCount": 1,
+              "domain": "sandspiel.club",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a6zxou",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a6zxou?m=AQAACqqGXCUz3t6Od7fkYQ8WPKRiE2PKTtpgGhTiot0EZ6Y8pbUd",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a6zxou?app_name=web2x&token=AQAAmmaFXLf4wAP3uqVPVWFzYS0LP31nxR4YULbCmUB0Kw-h7_aH&url=https%3A%2F%2Fsandspiel.club%2F"
+              },
+              "permalink": "/r/programming/comments/a6zxou/sandspiel_a_falling_sand_game_built_in_rust_and/",
+              "score": 1705.0,
+              "suggestedCommentSort": null,
+              "title": "Sandspiel \u2013 A falling sand game built in Rust and WebGL",
+              "url": "https://sandspiel.club/",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_fb7d8t8",
+                "name": "j_orshman"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 138.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": null,
+              "postEventInfo": null,
+              "thumbnail": null,
+              "upvoteRatio": 0.9644839067702553,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2fwo",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#002B36",
+                  "icon": "https://styles.redditmedia.com/t5_2fwo/styles/communityIcon_1bqa1ibfp8q11.png"
+                },
+                "name": "programming",
+                "subscribers": 1786256.0,
+                "title": "programming",
+                "type": "PUBLIC",
+                "path": "/r/programming/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/programming",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": false,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-17T23:07:48.983000+0000",
+              "crosspostCount": 50,
+              "domain": "v.redd.it",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [
+                {
+                  "type": { "id": "gid_1", "displayName": "silver" },
+                  "total": 3
+                },
+                { "type": { "id": "gid_2", "displayName": "gold" }, "total": 1 }
+              ],
+              "id": "t3_a752lz",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a752lz?m=AQAACqqGXJwBZRBPHrucdzpjsdadtiUMgPEBblHS1quNdnC09Nza",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://v.redd.it/yu2ije536x421"
+              },
+              "permalink": "/r/aww/comments/a752lz/these_cubs_love_their_mum_even_though_she_looks/",
+              "score": 46274.0,
+              "suggestedCommentSort": null,
+              "title": "These cubs love their mum, even though she looks different",
+              "url": "https://v.redd.it/yu2ije536x421",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_2iunlolf",
+                "name": "TurnBasedCombat"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 754.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": "VIDEO",
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/WfnvKYorZrsIJUxYMYeA1FOcUuYLtfBEvgZ8aY2Queo.png?format=pjpg&auto=webp&s=31ab17dc9ee8ab823fe406ccc953f96e61e24d46",
+                    "dimensions": { "width": 854, "height": 480 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/WfnvKYorZrsIJUxYMYeA1FOcUuYLtfBEvgZ8aY2Queo.png?width=108&height=60&crop=smart&format=pjpg&auto=webp&s=08a0f380458009595995470cc55f50ce6167c44f",
+                    "dimensions": { "width": 108, "height": 60 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/WfnvKYorZrsIJUxYMYeA1FOcUuYLtfBEvgZ8aY2Queo.png?width=216&height=121&crop=smart&format=pjpg&auto=webp&s=c7f69e6bb8148ebb2b36dafd20aa89f02ac34e3e",
+                    "dimensions": { "width": 216, "height": 121 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/WfnvKYorZrsIJUxYMYeA1FOcUuYLtfBEvgZ8aY2Queo.png?width=320&height=179&crop=smart&format=pjpg&auto=webp&s=0b8b597906a19c04c102283f6c09a5f0625b1103",
+                    "dimensions": { "width": 320, "height": 179 }
+                  },
+                  "xlarge": {
+                    "url": "https://external-preview.redd.it/WfnvKYorZrsIJUxYMYeA1FOcUuYLtfBEvgZ8aY2Queo.png?width=640&height=359&crop=smart&format=pjpg&auto=webp&s=ec3c32a22a0531e52d272ab7c8f403ed9bd2b6d3",
+                    "dimensions": { "width": 640, "height": 359 }
+                  },
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": {
+                  "hlsUrl": "https://v.redd.it/yu2ije536x421/HLSPlaylist.m3u8",
+                  "dashUrl": "https://v.redd.it/yu2ije536x421/DASHPlaylist.mpd",
+                  "scrubberMediaUrl": "https://v.redd.it/yu2ije536x421/DASH_600_K",
+                  "dimensions": { "width": 854, "height": 480 },
+                  "duration": 34,
+                  "isGif": false
+                },
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/eze9x_rq41dAKX6XatmAABOnvgMSc_vW6SnZbGcGlhc.jpg",
+                "dimensions": { "width": 140, "height": 78 }
+              },
+              "upvoteRatio": 0.9624190458816018,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qh1o",
+                "styles": {
+                  "legacyIcon": {
+                    "dimensions": { "width": 256, "height": 256 },
+                    "url": "https://b.thumbs.redditmedia.com/aKWBgkEo7FnZ1d598QhzMrSZ-J1mVCk2H4kxOiikL8A.png"
+                  },
+                  "primaryColor": "#000000",
+                  "icon": "https://styles.redditmedia.com/t5_2qh1o/styles/communityIcon_vzx333xor7101.png"
+                },
+                "name": "aww",
+                "subscribers": 19757475.0,
+                "title": "A subreddit for cute and cuddly pictures",
+                "type": "PUBLIC",
+                "path": "/r/aww/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/aww",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-17T10:26:05.763000+0000",
+              "crosspostCount": 0,
+              "domain": "link.medium.com",
+              "editedAt": null,
+              "flair": {
+                "richtext": null,
+                "text": "Tutorial",
+                "type": "text",
+                "textColor": "DARK",
+                "template": {
+                  "id": null,
+                  "type": "text",
+                  "text": "Tutorial",
+                  "richtext": null,
+                  "textColor": "DARK",
+                  "backgroundColor": null
+                }
+              },
+              "gildingTotals": [],
+              "id": "t3_a6ynjd",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a6ynjd?m=AQAACqqGXBxU-NxFGnYfeIr9mBnSR3sr-NGW2cayWQ6meENXj4Dz",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a6ynjd?app_name=web2x&token=AQAAmmaFXEfRErmBD_iWTcmYimkcZNg7gsBpJhl3M9IcGYISJ-qC&url=https%3A%2F%2Flink.medium.com%2FH7eqHSdDIS"
+              },
+              "permalink": "/r/reactjs/comments/a6ynjd/why_we_use_cssinjs_the_story_of_our_journey_as_an/",
+              "score": 34.0,
+              "suggestedCommentSort": "CONFIDENCE",
+              "title": "Why we use CSS-in-JS - the story of our journey as an answer to the debates lately",
+              "url": "https://link.medium.com/H7eqHSdDIS",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_b4dy4",
+                "name": "Saifadin"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 31.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": null,
+              "postEventInfo": null,
+              "thumbnail": null,
+              "upvoteRatio": 0.9722222222222222,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2zldd",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#014980",
+                  "icon": "https://styles.redditmedia.com/t5_2zldd/styles/communityIcon_12zd9qt7we121.jpg"
+                },
+                "name": "reactjs",
+                "subscribers": 100099.0,
+                "title": "ReactJS - Building Web Apps w/JavaScript",
+                "type": "PUBLIC",
+                "path": "/r/reactjs/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/reactjs",
+                "postFlairSettings": { "position": "LEFT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-17T07:41:27.763000+0000",
+              "crosspostCount": 0,
+              "domain": "i.redd.it",
+              "editedAt": null,
+              "flair": {
+                "richtext": "[{\"e\": \"text\", \"t\": \"Discussion\"}]",
+                "text": "Discussion",
+                "type": "richtext",
+                "textColor": "DARK",
+                "template": {
+                  "id": "f2e512ae-02b1-11e8-b0d6-0ef931ce91bc",
+                  "type": "richtext",
+                  "text": "Discussion",
+                  "richtext": "[{\"e\": \"text\", \"t\": \"Discussion\"}]",
+                  "textColor": "DARK",
+                  "backgroundColor": null
+                }
+              },
+              "gildingTotals": [],
+              "id": "t3_a6xre1",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a6xre1?m=AQAACqqGXBoM5k5OKVu0L637LGhhBhwJ-kqNUANdTEvsIKzBbPNj",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://i.redd.it/j6dsjro3ls421.png"
+              },
+              "permalink": "/r/webdev/comments/a6xre1/dont_flex_yourself/",
+              "score": 2760.0,
+              "suggestedCommentSort": null,
+              "title": "Don't flex yourself",
+              "url": "https://i.redd.it/j6dsjro3ls421.png",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_jxtzu",
+                "name": "mburakerman"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 93.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": "IMAGE",
+                "still": {
+                  "source": {
+                    "url": "https://preview.redd.it/j6dsjro3ls421.png?auto=webp&s=5c2a53f9d0ee3aebaad3a54c3e01e344fa0867d8",
+                    "dimensions": { "width": 613, "height": 305 }
+                  },
+                  "small": {
+                    "url": "https://preview.redd.it/j6dsjro3ls421.png?width=108&height=53&crop=smart&auto=webp&s=856faffc13135ba269b59b0c2c474cdd77f29d57",
+                    "dimensions": { "width": 108, "height": 53 }
+                  },
+                  "medium": {
+                    "url": "https://preview.redd.it/j6dsjro3ls421.png?width=216&height=107&crop=smart&auto=webp&s=f87375637a4a4b94de6205b56136473261839e77",
+                    "dimensions": { "width": 216, "height": 107 }
+                  },
+                  "large": {
+                    "url": "https://preview.redd.it/j6dsjro3ls421.png?width=320&height=159&crop=smart&auto=webp&s=7471a53abe5b9403d669bc9130177b3d91ce70b6",
+                    "dimensions": { "width": 320, "height": 159 }
+                  },
+                  "xlarge": null,
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/yybrflrXorq-jLi5F3rYHbdYT1gS69SxDbv4BfrqYZU.jpg",
+                "dimensions": { "width": 140, "height": 69 }
+              },
+              "upvoteRatio": 0.9739471805852962,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qs0q",
+                "styles": {
+                  "legacyIcon": {
+                    "dimensions": { "width": 256, "height": 256 },
+                    "url": "https://b.thumbs.redditmedia.com/vk8EAqzcLRGYh_Yisi68CglMMuheNEFKNaDLZy7h2ZE.png"
+                  },
+                  "primaryColor": "#BE2F2F",
+                  "icon": "https://styles.redditmedia.com/t5_2qs0q/styles/communityIcon_03gmzdso8rm01.png"
+                },
+                "name": "webdev",
+                "subscribers": 309407.0,
+                "title": "webdev: reddit for web developers",
+                "type": "PUBLIC",
+                "path": "/r/webdev/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/webdev",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-16T23:02:48.913000+0000",
+              "crosspostCount": 0,
+              "domain": "self.webdev",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a6tws8",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": true,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a6tws8?m=AQAACqqGXE0HjzXVR7WfVIpxzGarH8TbFlncRnnEKVy4NUtNgV_d",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://www.reddit.com/r/webdev/comments/a6tws8/apis_for_developers/"
+              },
+              "permalink": "/r/webdev/comments/a6tws8/apis_for_developers/",
+              "score": 32.0,
+              "suggestedCommentSort": null,
+              "title": "APIs for developers",
+              "url": "https://www.reddit.com/r/webdev/comments/a6tws8/apis_for_developers/",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_5k6ye",
+                "name": "SkawPV"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 21.0,
+              "content": {
+                "markdown": "I want to make projects for my portfolio but I'm tired of using OpenWeatherMap(A top notch API); I want to pull data other than weather data.\n\n&#x200B;\n\nDo you know alternatives to OpenWeatherMap? What do you use in your webapps/projects?",
+                "richtext": "{\"document\": [{\"c\": [{\"e\": \"text\", \"t\": \"I want to make projects for my portfolio but I'm tired of using OpenWeatherMap(A top notch API); I want to pull data other than weather data.\"}], \"e\": \"par\"}, {\"c\": [], \"e\": \"par\"}, {\"c\": [{\"e\": \"text\", \"t\": \"Do you know alternatives to OpenWeatherMap? What do you use in your webapps/projects?\"}], \"e\": \"par\"}]}",
+                "richtextMedia": []
+              },
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": null,
+              "postEventInfo": null,
+              "thumbnail": null,
+              "upvoteRatio": 0.8636363636363636,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qs0q",
+                "styles": {
+                  "legacyIcon": {
+                    "dimensions": { "width": 256, "height": 256 },
+                    "url": "https://b.thumbs.redditmedia.com/vk8EAqzcLRGYh_Yisi68CglMMuheNEFKNaDLZy7h2ZE.png"
+                  },
+                  "primaryColor": "#BE2F2F",
+                  "icon": "https://styles.redditmedia.com/t5_2qs0q/styles/communityIcon_03gmzdso8rm01.png"
+                },
+                "name": "webdev",
+                "subscribers": 309407.0,
+                "title": "webdev: reddit for web developers",
+                "type": "PUBLIC",
+                "path": "/r/webdev/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/webdev",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-16T15:43:21.495000+0000",
+              "crosspostCount": 0,
+              "domain": "i.redd.it",
+              "editedAt": null,
+              "flair": {
+                "richtext": "[{\"e\": \"text\", \"t\": \"Show-Off\"}]",
+                "text": "Show-Off",
+                "type": "richtext",
+                "textColor": "DARK",
+                "template": {
+                  "id": "14ada858-4aed-11e5-9227-0e5e20c89e15",
+                  "type": "richtext",
+                  "text": "Show-Off",
+                  "richtext": "[{\"e\": \"text\", \"t\": \"Show-Off\"}]",
+                  "textColor": "DARK",
+                  "backgroundColor": null
+                }
+              },
+              "gildingTotals": [],
+              "id": "t3_a6py3t",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a6py3t?m=AQAACqqGXCKIacpoi9-Ah0Jq-pN6bNLOC2at_AuU1Z7LQWiPrS9f",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://i.redd.it/fcwhaupcun421.gif"
+              },
+              "permalink": "/r/Unity3D/comments/a6py3t/graphy_has_gone_from_paid_to_free_to_open_source/",
+              "score": 741.0,
+              "suggestedCommentSort": null,
+              "title": "Graphy has gone from Paid, to Free, to Open Source, to Nominated for the \"Best Development Tool\" for the Unity Awards 2018. I couldn't be more proud of the tool this incredible community has helped me build over the last few months. Links in the comments :)",
+              "url": "https://i.redd.it/fcwhaupcun421.gif",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_11ir5v",
+                "name": "_Tayx"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 24.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": "GIFVIDEO",
+                "still": {
+                  "source": {
+                    "url": "https://preview.redd.it/fcwhaupcun421.gif?format=png8&s=a035ad679256e0af9db7b06caacacac009b92233",
+                    "dimensions": { "width": 540, "height": 400 }
+                  },
+                  "small": {
+                    "url": "https://preview.redd.it/fcwhaupcun421.gif?width=108&height=80&crop=smart&format=png8&s=87c0bc4851628f9f3d16e660f6f5b70965c7f3cc",
+                    "dimensions": { "width": 108, "height": 80 }
+                  },
+                  "medium": {
+                    "url": "https://preview.redd.it/fcwhaupcun421.gif?width=216&height=160&crop=smart&format=png8&s=1dc4c8ef9e5725dc9efe0fad46605988066eaf2b",
+                    "dimensions": { "width": 216, "height": 160 }
+                  },
+                  "large": {
+                    "url": "https://preview.redd.it/fcwhaupcun421.gif?width=320&height=237&crop=smart&format=png8&s=2dd8f72a2e5b83b4203cd1dff3c8f5d24ab1fb05",
+                    "dimensions": { "width": 320, "height": 237 }
+                  },
+                  "xlarge": null,
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": {
+                  "mp4_source": {
+                    "url": "https://external-preview.redd.it/mp4/9_iMqRgTYaIMTI2Ecqrv7xkKm6sa7zSb8wEStyIapVk-source.mp4?s=5ae0d76673abc6d0efd42b57f88e67cb94e864e6",
+                    "dimensions": { "width": 540, "height": 400 }
+                  },
+                  "mp4_small": {
+                    "url": "https://external-preview.redd.it/mp4/9_iMqRgTYaIMTI2Ecqrv7xkKm6sa7zSb8wEStyIapVk-source.mp4?s=5ae0d76673abc6d0efd42b57f88e67cb94e864e6",
+                    "dimensions": { "width": 540, "height": 400 }
+                  },
+                  "mp4_medium": {
+                    "url": "https://external-preview.redd.it/mp4/9_iMqRgTYaIMTI2Ecqrv7xkKm6sa7zSb8wEStyIapVk-source.mp4?s=5ae0d76673abc6d0efd42b57f88e67cb94e864e6",
+                    "dimensions": { "width": 540, "height": 400 }
+                  },
+                  "mp4_large": {
+                    "url": "https://external-preview.redd.it/mp4/9_iMqRgTYaIMTI2Ecqrv7xkKm6sa7zSb8wEStyIapVk-source.mp4?s=5ae0d76673abc6d0efd42b57f88e67cb94e864e6",
+                    "dimensions": { "width": 540, "height": 400 }
+                  },
+                  "mp4_xlarge": null,
+                  "mp4_xxlarge": null,
+                  "mp4_xxxlarge": null,
+                  "gif_source": {
+                    "url": "https://preview.redd.it/fcwhaupcun421.gif?s=1bd22656bba5d03a9568914df15a21ef92e27232",
+                    "dimensions": { "width": 540, "height": 400 }
+                  },
+                  "gif_small": {
+                    "url": "https://preview.redd.it/fcwhaupcun421.gif?width=108&height=80&crop=smart&s=a4e633fcbd9abd5240b1e083e4dd3a2ea309c62a",
+                    "dimensions": { "width": 108, "height": 80 }
+                  },
+                  "gif_medium": {
+                    "url": "https://preview.redd.it/fcwhaupcun421.gif?width=216&height=160&crop=smart&s=a3f19375cf1643c57e0a140f85622632b6c6b2c9",
+                    "dimensions": { "width": 216, "height": 160 }
+                  },
+                  "gif_large": {
+                    "url": "https://preview.redd.it/fcwhaupcun421.gif?width=320&height=237&crop=smart&s=c44da1ccdbed54e43f3a714287270155ea1e5777",
+                    "dimensions": { "width": 320, "height": 237 }
+                  },
+                  "gif_xlarge": null,
+                  "gif_xxlarge": null,
+                  "gif_xxxlarge": null
+                },
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/L0rcE4PJWHF5yMF6IevXC5I_keq1c3PtnzY17u5Ct5o.jpg",
+                "dimensions": { "width": 140, "height": 103 }
+              },
+              "upvoteRatio": 0.9868421052631579,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qwj8",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#646D73",
+                  "icon": null
+                },
+                "name": "Unity3D",
+                "subscribers": 114045.0,
+                "title": "Unity 3D - news, projects, conversation",
+                "type": "PUBLIC",
+                "path": "/r/Unity3D/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/Unity3D",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-16T16:43:47.474000+0000",
+              "crosspostCount": 0,
+              "domain": "self.reactjs",
+              "editedAt": "2018-12-19T21:15:01.840000+0000",
+              "flair": {
+                "richtext": null,
+                "text": "Featured",
+                "type": "text",
+                "textColor": "DARK",
+                "template": {
+                  "id": "f8eae61e-8520-11e8-9231-0ef8acf8eda6",
+                  "type": "text",
+                  "text": "Featured",
+                  "richtext": null,
+                  "textColor": "DARK",
+                  "backgroundColor": null
+                }
+              },
+              "gildingTotals": [],
+              "id": "t3_a6qhbr",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": true,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a6qhbr?m=AQAACqqGXM87evcePNHJzF5pGRzJlLce2JE78LWPtYZR_G_A3X8y",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://www.reddit.com/r/reactjs/comments/a6qhbr/checked_21_react_ui_kits_briefly_im_done/"
+              },
+              "permalink": "/r/reactjs/comments/a6qhbr/checked_21_react_ui_kits_briefly_im_done/",
+              "score": 259.0,
+              "suggestedCommentSort": "CONFIDENCE",
+              "title": "Checked 21 React UI kits briefly, I'm done",
+              "url": "https://www.reddit.com/r/reactjs/comments/a6qhbr/checked_21_react_ui_kits_briefly_im_done/",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_2srfos3h",
+                "name": "02mm"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 154.0,
+              "content": {
+                "markdown": "# \ud83d\ude03  \ud83d\ude03  \ud83d\ude03 LATEST UPDATE\n\n# After 2 days of testing 30+ libs, I chose a stack!\n\n# To see the final stack, scroll down to the bottom/to the 3 emojis.\n\n*Original Post:*\n\nThis was a tough day, need to decide and I find them all somehow underwhelming. Did some notes in order not to need to check them all again:\n\n* Biggest seems to be Material-UI, ugly AF but seems to offer quite good customization/theming, animations feel sometimes stuttery and yes it's just too Android, the default colors are just fugly, I mean it's Material; navigation too mobile-like, not sure about how much this nav can be customized; has one or two pro themes\n* All Bootstrap derivatives look like 2010, no thanks; React Bootstrap does not include v4 stuff, Reactstrap has v4\n* Blueprint feels solid but no mobile\n* Microsofts Fabrics looks good, they are React components but small community\n* Ant feels full-featured and gets tons of positive comments but somehow it's not mine, mobile side bar menu stutters heavily sometimes after a while, has pro themes on Themeforest (a dozen or so)\n* Evergreen looks so-so (too Bootstrap again), is more responsive than most others but seems Blueprint under the hood (so is it then really mobile then? idk); full theming not there yet\n* Pinterest's Gestalt looks too Pinterest\n* Atlaskit does not look exciting but solid, seems to have basic theming\n* Elastic UI has underwhelming visuals\n* Grommet looks like a broken Material, labels are not perfectly centered in buttons, colors super odd, etc.\n* React Toolbox, another Material one, as stuttery as MUI but worse docs and didn't see a lot of custom stuff, looks solid at first glance tho\n* Semantic looks boring and people say it's big, mobile feels laggy (e.g. the sidebar)\n* Onsen looks like Material but it's not, button animation much simpler\n* Elemental UI looks like Bootstrap--but from 2000, clean tho\n* Belle has its own distinct design but it's not consistent, looks rather random like your daddy's CSS\n* PrimeReact feels inconsistent in looks and a bit like Bootstrap but worse, has some nice niche stuff like orgcharts, gets here and there positive comments, not sure if they are comment spam\n* IBM's Carbon Components look surprisingly good, clean and toned-down, somehow maintained but just a handful contributors\n* Khan React Components look like 1995, just skip\n* Foundation, looks random, few components only\n\nThe good thing is that this research shows how huge React's ecosystem is offering that many kits. Another option is to opt out of this UI kit madness go for an atomic CSS thing, there I found following ones ok:\n\n* Tachyon, ultra appealing visuals + shortest css classes, **perfect defaults!**\n* Tailwinds similar but much longer css classes\n* Rebass and styled-system look like interesting native React variant of atomic css but at the end you are way faster with short css classes like those from Tachyon\n\n***UPDATE with noteworthy additions from the comment thread, 13h later:***\n\n* react-icons lets pick single icons from all major icon libs, seems to be a must have\n* Bootstrap might be not the worst base because of the millions themes (something I totally forgot); *somebody needs to give a quick comparison between React Bootstrap and Reactstrap!*\n* React Bootstrap reached already v4 but the team behind didn't update the website\n* Kendo is commercial and has a dedicated React package with sane defaults\n* facepaint for easy and slick media queries\n* spectre.css, 10kb clean css framework\n* UIkit, clean css framework\n* Bulma, a flexbox based CSS system\n* Polaris is another framework from Shopify\n* **Mineral UI a nice one with a clean UI and uses emotion to get themed/customized**\n* Element React, another clean one\n* Ant gets positive feedback, user discussion are often in Chinese tho\n\n***UPDATE with additions from comments and further own findings, 16h later:***\n\n* Bloomer, it's Bulma made of React components, looks clean and basic\n* Tailwind seems to offer more config options than Tachyon but having not so nice defaults\n* compared to styled-components, emotion offers following pros: perfectly working CSS props out of the box (CSS props let you skip names, hence no naming fatigue); caching of CSS declarations within the render function (styled-components advises against putting them inside the render function with their solution, I guess because of lacking caching); super easy and slick media-queries with facepaint, media queries are passed as simple arrays and can be fully customized; turn-key ready (no config mess with babel-plugins and extra modules required to get all features)\n\n***UPDATE, 22h later:***\n\n* Ring UI from Jetbrains, many components but some odd designs (e.g. a floating gradient in a button wtf)\n* codesandboxed React Bootstrap, men IDK: you need to import components and then an additional 20kb minified css (???), not that this is the original Bootstrap CSS and they loosely bolted it to some randomly named React components..., to mod existing (fugly) components you need to embed clumsy <style> declarations into your JSX, existing Bootstrap themes work only if they don't extend standard Bootstrap JS which is ok and expected, classnames and React component names differ (eg btn vs Button, you need to know the classname if you want to theme), guess there is valid reason but I don't care why and I don't want to remember two things for the same thing; once you add your styles to, let's say, a button the hover and active classes of the button are lost, guess that's intended\n* codesandboxed Reactstrap, even worse; same fugly default designs; searched 5 minutes for doing custom stuff/themes on their site and their Github, couldn't find anything about 'themes', stopped there, don't have time for searching basic stuff in docs\n* checked Bootstrap themes on various theme sites; some are def super impressive and I could imagine that you save time but once you get closer (try always the mobile responsive versions eg) you find glitches and stutter everywhere, just open some menus and see 5fps max all over the place (even those on the offical Bootstrap site)\n* Bootstrap on React, whatever flavor, it is no option and broken from the ground, I imagine that the high NPM download numbers come from legacy systems/knowledge but not because it's a superior thing, the themes are not worth the trouble, sorry for being direct but all other options out there for React are superior; Bootstrap might be an option if you are not on React, not using CSS-in-JSS or traveling in a time-machine back to 2010\n\n***UPDATE, 23h later:***\n\n* codesandboxed Minaral UI (the one using emotion), while I love that this is built with modern stuff, I couldn't get it running: in its initial example it require react-emotion but I get an error that tells me react-emotion was replaced by @emotion/styled since emotion v10; removing react-emotion and installing @emotion/styled doesn't help, cmon emotion v10 is 3 weeks out now, update your app and code, Mineral has potential but such stuff is mildly infuriating, scares people away and nobody will make an issue telling you\n* Wanted to codesandbox KendoReact: I clicked on 'Get Started' and I was asked to sign up for a 30-days trial, wat?, didn't sign up, no time for nonsense, checked their customization area, it's there, good, you can opt between a default, a material and Bootstrap theme you want to mod, then you just get knee-deep into scss and webpack build processes to theme; this doesn't feel like React 2018, rather like an old framework sloppily ported to the future and you can have it for just $799 per dev, 10 incidents, 72h response, what a deal; I need to headhunt their sales team who manages to sell Kendo at this price while you get 40+ ui kits from Alibaba/MS/IBM/Pinterest/Shopify/Atlassian for free (lunch included)\n\n***UPDATE, one day later:***\n\n* maybe I should stop looking at frameworks, maybe they are not the answer; maybe its highly specialized React components paired with your custom designs':\n* React Awesome Button is really awesome and has stunning spring animations, **the buttons even tilt** (this is really my highlight today)! you can config dozens of properties to get a video game like experience, unfortunately you get it for additional 6kb zipped and it's not maintained, still, doing React UI is fun again\n* React Select, full featured drop down component which can do everything but looks quite neutral\n\n***BONUS UPDATE, Atlaskit from Atlassian:***\n\n* Update: after checking this more, I am on the fence, locks consistent and tempting, good components, modern architecture, so everything is in the components, also the styling, but API clumsy (super long prop names such as 'appearances' wtf, why not even longer like visualAppearances or atlaskitVisualAppearances? lol. this paired with strange stuff: you import their modules and then a DependencyNotFoundError; this thing requires styled-components but haven't imported it itself, no problem, I can do this for you but it's confusing and not the way it's done in NPM land, and I don't care why you did this and I don't have time to check your doc and issues to understand why you did this; theming is limited and they have the own holy design language, better don't touch it; so your final product looks like Bitbucket or their ancient issue tracker, I mean why not, imagine you develop some boring HR software, then Atlaskit is the right choice and btw Bitbucket has a cleaner and more appealing design than Github which is not hard though; still, skip\n\n# \ud83d\ude03  \ud83d\ude03  \ud83d\ude03After 2 days of testing, I chose this stack:\n\n# \n\n* **Tachyons** as primary CSS-in-JS and media-queries method in my React components\n   * why: it's slick, easy and complete and brings you quite far\n   * configuration is super; eg, creating your own color or default font is just putting them in your App.css and they override Tachyons; creating other breakpoints is possible (just change and recompile, this takes 1sec and a tachyons-cli is there, no need to touch webpack or eject CRA)\n   * however, configuring Tachyons is not required at all, I tested it in and out and it's all perfect at the moment, it's really turn-key and absolutely the right approach to our problem; Tachyons does just one thing and it does is right\n   * I preferred it very much over others like Tailwind because Tailwind has cumbersome and long CSS naming; Tailwind's philosophy and strategy is inconsistent; on the one hand, it wants to be atomic CSS, on the other hand, it bloats and pollutes your components almost like real CSS, wtf? either I do minimal atomic CSS (it's called 'atomic'!) like Tachyons or I put real CSS in my component; Tailwind doesn't know what it wants to be while Tachyons has a clear strategy which is perfectly executed => an ultra atomic mapping to CSS, Tailwinds bobs up and down with some short names and then some long ones...; also setting Tailwind up or configuring is unnecessary complex and bloated; doc is comprehensive and complete but also because of its own complications and disunity; atomic css doesn't need to be science; compared to Tailwind, Tachyons is a dream\n   * I also checked styled-system but found the DX not close to Tachyons and couldn't see any benefit over Tachyons; it's too cumbersome but in a different way than Tailwind\n   * Tachyons is just 13kb gzipped while fully featured (Tailwind is 36kb)\n   * while small Tachyons has the biggest ecosystem (related libs, cheatsheets, blog posts), at the end of the day, you don't need more, again it's just a mapper and more advanced stuff should be done with eg Emotion anyway\n   * other atomic css libs like Bass CSS are also inferior, there is just one (Graviton) which is very small (5kb) and follows the same philosophy but has a limited set of classes\n* **Palx** for colors, this thing is AMAZING, check it out, create a perfect customized color theme in a second (just set your base color and Palx generate your full theme as CSS or JSON, you. don't. need. more.); even better just use the npm module and get a color object containing the full theme with a simple call, e.g. palx('#07c')\n* **Emotion** as secondary CSS-in-JS method in case I need more than Tachyons (which will be rare): why emotion and not styled-components: no naming fatigue => CSS props work out of the box without messy babel plugins (I couldn't get CSS props working with CRA & styled-components, they don't seem to have highest priority at styled-components, also the documentation hides them away at the end of the reference and nowhere else, maybe because they are not working anyway), media queries are also slicker (with facepaint than with styled-components suggest solution which is convoluted)\n* **Facepaint** as secondary media-queries method for Emotion\n* **React Icons** for icons, another must have package in your app\n\nIn case I need more complex components (e.g. date picker), I'll check out again full UI frameworks; I don't need complex components at the moment; stuff like buttons, modals, menus are done and customized much faster with this current stack; there's also the option to integrate single component libs like React Awesome Button; however, if I get back to full frameworks, I might consider *MS Fabric, IBM Carbon Design*; they are far from perfect and there's still room for improvement but they feel legacy-free, consistent, include mobile and most important, they have a distinctive and own style which doesn't clone any other design; sorry but I can't see Material or Bootstrap style anymore, both reflect weak design languages and do not deserve to be adapted, they are overused and have a very cheap aftertaste and call negative associations: trashy Android phones that never get any OS updates and sneaky Google services stalking you are my first thought when I see pup-ugly Material, its sh\\*tty colors and too big baby buttons you wouldn't even miss with your elbow; if your app should look like your mummy's crappy Wordpress blog opt for Bootstrap kits, buggy $19-themes from shady theme sites and time-travel to the past; in this regard, I am aware that MS Fabric is close to Windows' identity but Fabric is so subtle, reduced and minimal which stands in the back and gives a lot of room to individual designs if needed\n\nTo sum up, I appreciate the variety of this massive ecosystem. Having options is great and it's insane what React offers. Even if not all libs are on par with the chosen ones, this could change in a month, competition among libs is good and I am sure that other libs will quickly catch up.",
+                "richtext": "{\"document\": [{\"c\": [{\"e\": \"raw\", \"t\": \"\\ud83d\\ude03  \\ud83d\\ude03  \\ud83d\\ude03 LATEST UPDATE\"}], \"e\": \"h\", \"l\": 1}, {\"c\": [{\"e\": \"raw\", \"t\": \"After 2 days of testing 30+ libs, I chose a stack!\"}], \"e\": \"h\", \"l\": 1}, {\"c\": [{\"e\": \"raw\", \"t\": \"To see the final stack, scroll down to the bottom/to the 3 emojis.\"}], \"e\": \"h\", \"l\": 1}, {\"c\": [{\"e\": \"text\", \"f\": [[2, 0, 14]], \"t\": \"Original Post:\"}], \"e\": \"par\"}, {\"c\": [{\"e\": \"text\", \"t\": \"This was a tough day, need to decide and I find them all somehow underwhelming. Did some notes in order not to need to check them all again:\"}], \"e\": \"par\"}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Biggest seems to be Material-UI, ugly AF but seems to offer quite good customization/theming, animations feel sometimes stuttery and yes it's just too Android, the default colors are just fugly, I mean it's Material; navigation too mobile-like, not sure about how much this nav can be customized; has one or two pro themes\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"All Bootstrap derivatives look like 2010, no thanks; React Bootstrap does not include v4 stuff, Reactstrap has v4\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Blueprint feels solid but no mobile\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Microsofts Fabrics looks good, they are React components but small community\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Ant feels full-featured and gets tons of positive comments but somehow it's not mine, mobile side bar menu stutters heavily sometimes after a while, has pro themes on Themeforest (a dozen or so)\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Evergreen looks so-so (too Bootstrap again), is more responsive than most others but seems Blueprint under the hood (so is it then really mobile then? idk); full theming not there yet\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Pinterest's Gestalt looks too Pinterest\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Atlaskit does not look exciting but solid, seems to have basic theming\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Elastic UI has underwhelming visuals\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Grommet looks like a broken Material, labels are not perfectly centered in buttons, colors super odd, etc.\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"React Toolbox, another Material one, as stuttery as MUI but worse docs and didn't see a lot of custom stuff, looks solid at first glance tho\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Semantic looks boring and people say it's big, mobile feels laggy (e.g. the sidebar)\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Onsen looks like Material but it's not, button animation much simpler\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Elemental UI looks like Bootstrap--but from 2000, clean tho\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Belle has its own distinct design but it's not consistent, looks rather random like your daddy's CSS\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"PrimeReact feels inconsistent in looks and a bit like Bootstrap but worse, has some nice niche stuff like orgcharts, gets here and there positive comments, not sure if they are comment spam\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"IBM's Carbon Components look surprisingly good, clean and toned-down, somehow maintained but just a handful contributors\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Khan React Components look like 1995, just skip\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Foundation, looks random, few components only\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": false}, {\"c\": [{\"e\": \"text\", \"t\": \"The good thing is that this research shows how huge React's ecosystem is offering that many kits. Another option is to opt out of this UI kit madness go for an atomic CSS thing, there I found following ones ok:\"}], \"e\": \"par\"}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"text\", \"f\": [[1, 57, 17]], \"t\": \"Tachyon, ultra appealing visuals + shortest css classes, perfect defaults!\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Tailwinds similar but much longer css classes\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Rebass and styled-system look like interesting native React variant of atomic css but at the end you are way faster with short css classes like those from Tachyon\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": false}, {\"c\": [{\"e\": \"text\", \"f\": [[3, 0, 68]], \"t\": \"UPDATE with noteworthy additions from the comment thread, 13h later:\"}], \"e\": \"par\"}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"react-icons lets pick single icons from all major icon libs, seems to be a must have\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"f\": [[2, 99, 81]], \"t\": \"Bootstrap might be not the worst base because of the millions themes (something I totally forgot); somebody needs to give a quick comparison between React Bootstrap and Reactstrap!\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"React Bootstrap reached already v4 but the team behind didn't update the website\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Kendo is commercial and has a dedicated React package with sane defaults\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"facepaint for easy and slick media queries\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"spectre.css, 10kb clean css framework\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"UIkit, clean css framework\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Bulma, a flexbox based CSS system\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Polaris is another framework from Shopify\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"f\": [[1, 0, 79]], \"t\": \"Mineral UI a nice one with a clean UI and uses emotion to get themed/customized\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Element React, another clean one\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Ant gets positive feedback, user discussion are often in Chinese tho\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": false}, {\"c\": [{\"e\": \"text\", \"f\": [[3, 0, 72]], \"t\": \"UPDATE with additions from comments and further own findings, 16h later:\"}], \"e\": \"par\"}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Bloomer, it's Bulma made of React components, looks clean and basic\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Tailwind seems to offer more config options than Tachyon but having not so nice defaults\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"compared to styled-components, emotion offers following pros: perfectly working CSS props out of the box (CSS props let you skip names, hence no naming fatigue); caching of CSS declarations within the render function (styled-components advises against putting them inside the render function with their solution, I guess because of lacking caching); super easy and slick media-queries with facepaint, media queries are passed as simple arrays and can be fully customized; turn-key ready (no config mess with babel-plugins and extra modules required to get all features)\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": false}, {\"c\": [{\"e\": \"text\", \"f\": [[3, 0, 18]], \"t\": \"UPDATE, 22h later:\"}], \"e\": \"par\"}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Ring UI from Jetbrains, many components but some odd designs (e.g. a floating gradient in a button wtf)\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"codesandboxed React Bootstrap, men IDK: you need to import components and then an additional 20kb minified css (???), not that this is the original Bootstrap CSS and they loosely bolted it to some randomly named React components..., to mod existing (fugly) components you need to embed clumsy <style> declarations into your JSX, existing Bootstrap themes work only if they don't extend standard Bootstrap JS which is ok and expected, classnames and React component names differ (eg btn vs Button, you need to know the classname if you want to theme), guess there is valid reason but I don't care why and I don't want to remember two things for the same thing; once you add your styles to, let's say, a button the hover and active classes of the button are lost, guess that's intended\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"codesandboxed Reactstrap, even worse; same fugly default designs; searched 5 minutes for doing custom stuff/themes on their site and their Github, couldn't find anything about 'themes', stopped there, don't have time for searching basic stuff in docs\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"checked Bootstrap themes on various theme sites; some are def super impressive and I could imagine that you save time but once you get closer (try always the mobile responsive versions eg) you find glitches and stutter everywhere, just open some menus and see 5fps max all over the place (even those on the offical Bootstrap site)\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Bootstrap on React, whatever flavor, it is no option and broken from the ground, I imagine that the high NPM download numbers come from legacy systems/knowledge but not because it's a superior thing, the themes are not worth the trouble, sorry for being direct but all other options out there for React are superior; Bootstrap might be an option if you are not on React, not using CSS-in-JSS or traveling in a time-machine back to 2010\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": false}, {\"c\": [{\"e\": \"text\", \"f\": [[3, 0, 18]], \"t\": \"UPDATE, 23h later:\"}], \"e\": \"par\"}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"codesandboxed Minaral UI (the one using emotion), while I love that this is built with modern stuff, I couldn't get it running: in its initial example it require react-emotion but I get an error that tells me react-emotion was replaced by @emotion/styled since emotion v10; removing react-emotion and installing @emotion/styled doesn't help, cmon emotion v10 is 3 weeks out now, update your app and code, Mineral has potential but such stuff is mildly infuriating, scares people away and nobody will make an issue telling you\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Wanted to codesandbox KendoReact: I clicked on 'Get Started' and I was asked to sign up for a 30-days trial, wat?, didn't sign up, no time for nonsense, checked their customization area, it's there, good, you can opt between a default, a material and Bootstrap theme you want to mod, then you just get knee-deep into scss and webpack build processes to theme; this doesn't feel like React 2018, rather like an old framework sloppily ported to the future and you can have it for just $799 per dev, 10 incidents, 72h response, what a deal; I need to headhunt their sales team who manages to sell Kendo at this price while you get 40+ ui kits from Alibaba/MS/IBM/Pinterest/Shopify/Atlassian for free (lunch included)\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": false}, {\"c\": [{\"e\": \"text\", \"f\": [[3, 0, 22]], \"t\": \"UPDATE, one day later:\"}], \"e\": \"par\"}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"maybe I should stop looking at frameworks, maybe they are not the answer; maybe its highly specialized React components paired with your custom designs':\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"f\": [[1, 75, 21]], \"t\": \"React Awesome Button is really awesome and has stunning spring animations, the buttons even tilt (this is really my highlight today)! you can config dozens of properties to get a video game like experience, unfortunately you get it for additional 6kb zipped and it's not maintained, still, doing React UI is fun again\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"React Select, full featured drop down component which can do everything but looks quite neutral\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": false}, {\"c\": [{\"e\": \"text\", \"f\": [[3, 0, 38]], \"t\": \"BONUS UPDATE, Atlaskit from Atlassian:\"}], \"e\": \"par\"}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Update: after checking this more, I am on the fence, locks consistent and tempting, good components, modern architecture, so everything is in the components, also the styling, but API clumsy (super long prop names such as 'appearances' wtf, why not even longer like visualAppearances or atlaskitVisualAppearances? lol. this paired with strange stuff: you import their modules and then a DependencyNotFoundError; this thing requires styled-components but haven't imported it itself, no problem, I can do this for you but it's confusing and not the way it's done in NPM land, and I don't care why you did this and I don't have time to check your doc and issues to understand why you did this; theming is limited and they have the own holy design language, better don't touch it; so your final product looks like Bitbucket or their ancient issue tracker, I mean why not, imagine you develop some boring HR software, then Atlaskit is the right choice and btw Bitbucket has a cleaner and more appealing design than Github which is not hard though; still, skip\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": false}, {\"c\": [{\"e\": \"raw\", \"t\": \"\\ud83d\\ude03  \\ud83d\\ude03  \\ud83d\\ude03After 2 days of testing, I chose this stack:\"}], \"e\": \"h\", \"l\": 1}, {\"c\": [{\"e\": \"raw\", \"t\": \"\"}], \"e\": \"h\", \"l\": 1}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"text\", \"f\": [[1, 0, 8]], \"t\": \"Tachyons as primary CSS-in-JS and media-queries method in my React components\"}], \"e\": \"par\"}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"why: it's slick, easy and complete and brings you quite far\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"configuration is super; eg, creating your own color or default font is just putting them in your App.css and they override Tachyons; creating other breakpoints is possible (just change and recompile, this takes 1sec and a tachyons-cli is there, no need to touch webpack or eject CRA)\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"however, configuring Tachyons is not required at all, I tested it in and out and it's all perfect at the moment, it's really turn-key and absolutely the right approach to our problem; Tachyons does just one thing and it does is right\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"I preferred it very much over others like Tailwind because Tailwind has cumbersome and long CSS naming; Tailwind's philosophy and strategy is inconsistent; on the one hand, it wants to be atomic CSS, on the other hand, it bloats and pollutes your components almost like real CSS, wtf? either I do minimal atomic CSS (it's called 'atomic'!) like Tachyons or I put real CSS in my component; Tailwind doesn't know what it wants to be while Tachyons has a clear strategy which is perfectly executed => an ultra atomic mapping to CSS, Tailwinds bobs up and down with some short names and then some long ones...; also setting Tailwind up or configuring is unnecessary complex and bloated; doc is comprehensive and complete but also because of its own complications and disunity; atomic css doesn't need to be science; compared to Tailwind, Tachyons is a dream\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"I also checked styled-system but found the DX not close to Tachyons and couldn't see any benefit over Tachyons; it's too cumbersome but in a different way than Tailwind\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"Tachyons is just 13kb gzipped while fully featured (Tailwind is 36kb)\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"while small Tachyons has the biggest ecosystem (related libs, cheatsheets, blog posts), at the end of the day, you don't need more, again it's just a mapper and more advanced stuff should be done with eg Emotion anyway\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"t\": \"other atomic css libs like Bass CSS are also inferior, there is just one (Graviton) which is very small (5kb) and follows the same philosophy but has a limited set of classes\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": false}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"f\": [[1, 0, 4]], \"t\": \"Palx for colors, this thing is AMAZING, check it out, create a perfect customized color theme in a second (just set your base color and Palx generate your full theme as CSS or JSON, you. don't. need. more.); even better just use the npm module and get a color object containing the full theme with a simple call, e.g. palx('#07c')\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"f\": [[1, 0, 7]], \"t\": \"Emotion as secondary CSS-in-JS method in case I need more than Tachyons (which will be rare): why emotion and not styled-components: no naming fatigue => CSS props work out of the box without messy babel plugins (I couldn't get CSS props working with CRA & styled-components, they don't seem to have highest priority at styled-components, also the documentation hides them away at the end of the reference and nowhere else, maybe because they are not working anyway), media queries are also slicker (with facepaint than with styled-components suggest solution which is convoluted)\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"f\": [[1, 0, 9]], \"t\": \"Facepaint as secondary media-queries method for Emotion\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"text\", \"f\": [[1, 0, 11]], \"t\": \"React Icons for icons, another must have package in your app\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": false}, {\"c\": [{\"e\": \"text\", \"f\": [[2, 388, 28]], \"t\": \"In case I need more complex components (e.g. date picker), I'll check out again full UI frameworks; I don't need complex components at the moment; stuff like buttons, modals, menus are done and customized much faster with this current stack; there's also the option to integrate single component libs like React Awesome Button; however, if I get back to full frameworks, I might consider MS Fabric, IBM Carbon Design; they are far from perfect and there's still room for improvement but they feel legacy-free, consistent, include mobile and most important, they have a distinctive and own style which doesn't clone any other design; sorry but I can't see Material or Bootstrap style anymore, both reflect weak design languages and do not deserve to be adapted, they are overused and have a very cheap aftertaste and call negative associations: trashy Android phones that never get any OS updates and sneaky Google services stalking you are my first thought when I see pup-ugly Material, its sh*tty colors and too big baby buttons you wouldn't even miss with your elbow; if your app should look like your mummy's crappy Wordpress blog opt for Bootstrap kits, buggy $19-themes from shady theme sites and time-travel to the past; in this regard, I am aware that MS Fabric is close to Windows' identity but Fabric is so subtle, reduced and minimal which stands in the back and gives a lot of room to individual designs if needed\"}], \"e\": \"par\"}, {\"c\": [{\"e\": \"text\", \"t\": \"To sum up, I appreciate the variety of this massive ecosystem. Having options is great and it's insane what React offers. Even if not all libs are on par with the chosen ones, this could change in a month, competition among libs is good and I am sure that other libs will quickly catch up.\"}], \"e\": \"par\"}]}",
+                "richtextMedia": []
+              },
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": null,
+              "postEventInfo": null,
+              "thumbnail": null,
+              "upvoteRatio": 0.96415770609319,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2zldd",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#014980",
+                  "icon": "https://styles.redditmedia.com/t5_2zldd/styles/communityIcon_12zd9qt7we121.jpg"
+                },
+                "name": "reactjs",
+                "subscribers": 100099.0,
+                "title": "ReactJS - Building Web Apps w/JavaScript",
+                "type": "PUBLIC",
+                "path": "/r/reactjs/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/reactjs",
+                "postFlairSettings": { "position": "LEFT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-16T08:03:32.573000+0000",
+              "crosspostCount": 0,
+              "domain": "anaulin.org",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a6nfgh",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a6nfgh?m=AQAACqqGXCDQrMcfR3TxqDR_D6j-VwoHzDzI8d_9saMmx-iIYhaa",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a6nfgh?app_name=web2x&token=AQAAmmaFXL1dYRAtKLAF-UR3oLLf1bSmEaOu6WZKh3MzueQ_26ny&url=https%3A%2F%2Fanaulin.org%2Fblog%2Fthings-nobody-told-me-about-being-a-software-engineer%2F%3Futm_source%3Dprogrammingdigest%26amp%3Butm_medium%3Demail%26amp%3Butm_campaign%3Dfeatured"
+              },
+              "permalink": "/r/programming/comments/a6nfgh/things_nobody_told_me_about_being_a_software/",
+              "score": 1546.0,
+              "suggestedCommentSort": null,
+              "title": "Things Nobody Told Me About Being a Software Engineer",
+              "url": "https://anaulin.org/blog/things-nobody-told-me-about-being-a-software-engineer/?utm_source=programmingdigest&amp;utm_medium=email&amp;utm_campaign=featured",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "UP",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_xeaqp",
+                "name": "fagnerbrack"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 810.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": null,
+              "postEventInfo": null,
+              "thumbnail": null,
+              "upvoteRatio": 0.8983845752996352,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2fwo",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#002B36",
+                  "icon": "https://styles.redditmedia.com/t5_2fwo/styles/communityIcon_1bqa1ibfp8q11.png"
+                },
+                "name": "programming",
+                "subscribers": 1786256.0,
+                "title": "programming",
+                "type": "PUBLIC",
+                "path": "/r/programming/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/programming",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": false,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-15T12:22:59.412000+0000",
+              "crosspostCount": 0,
+              "domain": "areknawo.com",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a6etjj",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a6etjj?m=AQAACqqGXFwpOae2bwRitAN9MlxRdYC3nMB3YX3sJBVVVJyTQ4bA",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a6etjj?app_name=web2x&token=AQAAmmaFXIacIazJv10vfvoyS18K6QhPEtxS9T47lE-AHPWgV72j&url=https%3A%2F%2Fareknawo.com%2Flets-talk-js-documentation%2F"
+              },
+              "permalink": "/r/javascript/comments/a6etjj/best_ways_of_documenting_your_js_code/",
+              "score": 243.0,
+              "suggestedCommentSort": null,
+              "title": "Best ways of documenting your JS code",
+              "url": "https://areknawo.com/lets-talk-js-documentation/",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_1hv1u00l",
+                "name": "areknawo"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 16.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/BiWbe_9nVEkk5ElD558E1yOt90OyoZDvOAvC8lsZutg.jpg?auto=webp&s=9947fc65ef6eb59895b50c3c0d6a8b20a873b2fe",
+                    "dimensions": { "width": 1080, "height": 1080 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/BiWbe_9nVEkk5ElD558E1yOt90OyoZDvOAvC8lsZutg.jpg?width=108&height=108&crop=smart&auto=webp&s=101f9fbcc8f55d14176049b64c0c50edc2fba472",
+                    "dimensions": { "width": 108, "height": 108 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/BiWbe_9nVEkk5ElD558E1yOt90OyoZDvOAvC8lsZutg.jpg?width=216&height=216&crop=smart&auto=webp&s=a6517ff3fbbf2714bf320a2e3d30e9d4c8533843",
+                    "dimensions": { "width": 216, "height": 216 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/BiWbe_9nVEkk5ElD558E1yOt90OyoZDvOAvC8lsZutg.jpg?width=320&height=320&crop=smart&auto=webp&s=ce8854b0cb90b37e1a981dcdf3e0198a86e22778",
+                    "dimensions": { "width": 320, "height": 320 }
+                  },
+                  "xlarge": {
+                    "url": "https://external-preview.redd.it/BiWbe_9nVEkk5ElD558E1yOt90OyoZDvOAvC8lsZutg.jpg?width=640&height=640&crop=smart&auto=webp&s=cbf45b54bf7ffcc39b3bcc5f04c83e9228bd6965",
+                    "dimensions": { "width": 640, "height": 640 }
+                  },
+                  "xxlarge": {
+                    "url": "https://external-preview.redd.it/BiWbe_9nVEkk5ElD558E1yOt90OyoZDvOAvC8lsZutg.jpg?width=960&height=960&crop=smart&auto=webp&s=5caf5678fc81a850922f2931d72d6e9b645f2a0e",
+                    "dimensions": { "width": 960, "height": 960 }
+                  },
+                  "xxxlarge": {
+                    "url": "https://external-preview.redd.it/BiWbe_9nVEkk5ElD558E1yOt90OyoZDvOAvC8lsZutg.jpg?width=1080&height=1080&crop=smart&auto=webp&s=c5c09b241578c27449f7e55c87159716dd314259",
+                    "dimensions": { "width": 1080, "height": 1080 }
+                  }
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/wL9QYPD-y36SJaUeLVJxEUsGt2hjVyBM6ETS_QXZkLs.jpg",
+                "dimensions": { "width": 140, "height": 140 }
+              },
+              "upvoteRatio": 0.9481481481481482,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qh30",
+                "styles": {
+                  "legacyIcon": {
+                    "dimensions": { "width": 256, "height": 256 },
+                    "url": "https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png"
+                  },
+                  "primaryColor": null,
+                  "icon": null
+                },
+                "name": "javascript",
+                "subscribers": 532880.0,
+                "title": "JavaScript",
+                "type": "PUBLIC",
+                "path": "/r/javascript/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/javascript",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": false,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-13T17:23:11.141000+0000",
+              "crosspostCount": 17,
+              "domain": "v.redd.it",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [
+                {
+                  "type": { "id": "gid_1", "displayName": "silver" },
+                  "total": 1
+                },
+                { "type": { "id": "gid_2", "displayName": "gold" }, "total": 1 }
+              ],
+              "id": "t3_a5vj2v",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a5vj2v?m=AQAACqqGXIxnvhs-wLAbt8S3ItpJLhVjOkm-tOkGa0O48XeiBAPI",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://v.redd.it/6udqj3ocx2421"
+              },
+              "permalink": "/r/AnimalsBeingDerps/comments/a5vj2v/every_dog_has_a_purpose_but_clearly_rykers/",
+              "score": 34695.0,
+              "suggestedCommentSort": null,
+              "title": "Every dog has a purpose, but clearly Ryker\u2019s purpose is not to be a service dog.",
+              "url": "https://v.redd.it/6udqj3ocx2421",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_ze435",
+                "name": "mac_is_crack"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 509.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": "VIDEO",
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/whfr2ezQQKZe2JKHEhjyLE2WeMx0JfDGkAL3RXZC1I4.png?format=pjpg&auto=webp&s=33c0ab22d61f41607e0d1f16a6de029497e83df6",
+                    "dimensions": { "width": 400, "height": 230 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/whfr2ezQQKZe2JKHEhjyLE2WeMx0JfDGkAL3RXZC1I4.png?width=108&height=62&crop=smart&format=pjpg&auto=webp&s=88071880063c0d149055230d1f625896aacf9762",
+                    "dimensions": { "width": 108, "height": 62 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/whfr2ezQQKZe2JKHEhjyLE2WeMx0JfDGkAL3RXZC1I4.png?width=216&height=124&crop=smart&format=pjpg&auto=webp&s=e15efb021e9030439d1d513bb6c5cb4405450d10",
+                    "dimensions": { "width": 216, "height": 124 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/whfr2ezQQKZe2JKHEhjyLE2WeMx0JfDGkAL3RXZC1I4.png?width=320&height=184&crop=smart&format=pjpg&auto=webp&s=326ed5dcd2f156f68c46f689fffb343fc9bde6c2",
+                    "dimensions": { "width": 320, "height": 184 }
+                  },
+                  "xlarge": null,
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": {
+                  "hlsUrl": "https://v.redd.it/6udqj3ocx2421/HLSPlaylist.m3u8",
+                  "dashUrl": "https://v.redd.it/6udqj3ocx2421/DASHPlaylist.mpd",
+                  "scrubberMediaUrl": "https://v.redd.it/6udqj3ocx2421/DASH_600_K",
+                  "dimensions": { "width": 400, "height": 230 },
+                  "duration": 145,
+                  "isGif": false
+                },
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/-8gMi66NuEtStI1Jf9IM1Mwtz9pirAouBduBWFFeeDo.jpg",
+                "dimensions": { "width": 140, "height": 80 }
+              },
+              "upvoteRatio": 0.9508615188257817,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2xbrg",
+                "styles": {
+                  "legacyIcon": {
+                    "dimensions": { "width": 256, "height": 256 },
+                    "url": "https://b.thumbs.redditmedia.com/fy5ONa0GmECoSz_z4v28hBx2wJndO5ZM6NnLVhaHPRs.png"
+                  },
+                  "primaryColor": null,
+                  "icon": null
+                },
+                "name": "AnimalsBeingDerps",
+                "subscribers": 1225097.0,
+                "title": "Aww, they're so stupid",
+                "type": "PUBLIC",
+                "path": "/r/AnimalsBeingDerps/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/AnimalsBeingDerps",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-13T08:57:49.969000+0000",
+              "crosspostCount": 0,
+              "domain": "self.reactjs",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a5ruqj",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": true,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a5ruqj?m=AQAACqqGXPFungTpqGX-DOYYkGJDl0SZjzAvpR7_gB952NfM-DqR",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://www.reddit.com/r/reactjs/comments/a5ruqj/simple_and_easy_to_understand_reactjs_tutorials/"
+              },
+              "permalink": "/r/reactjs/comments/a5ruqj/simple_and_easy_to_understand_reactjs_tutorials/",
+              "score": 39.0,
+              "suggestedCommentSort": "CONFIDENCE",
+              "title": "Simple and Easy to understand ReactJS Tutorials for beginners",
+              "url": "https://www.reddit.com/r/reactjs/comments/a5ruqj/simple_and_easy_to_understand_reactjs_tutorials/",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_14ywdd",
+                "name": "Shilpa_Opencodez"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 5.0,
+              "content": {
+                "markdown": " \n\n**Simple** and **Easy** to understand ReactJS tutorials. **Free Source Code** is also provided on GitHub\n\n1. [ReactJS Tutorial# 1 \u2013 An Introduction](https://www.opencodez.com/web-development/reactjs-an-introduction.htm)\n2. [ReactJS Tutorial# 2 \u2013 Components and Props](https://www.opencodez.com/web-development/reactjs-components-and-props.htm)\n3. [ReactJS Tutorial# 3 \u2013 Component State and Lifecycle](https://www.opencodez.com/web-development/reactjs-component-state-and-lifecycle.htm)\n4. [ReactJS Tutorial# 4 \u2013 Forms, Events, and Keys](https://www.opencodez.com/web-development/reactjs-tutorial-4-forms-events-keys.htm)\n5. [ReactJS Tutorial# 5 \u2013 React Flux and Redux](https://www.opencodez.com/web-development/reactjs-tutorial-5-react-flux-and-redux.htm)\n6. [ReactJS Tutorial# 6 \u2013 ReactJS Best Practices](https://www.opencodez.com/web-development/reactjs-best-practices.htm)\n\nHope this helps !",
+                "richtext": "{\"document\": [{\"c\": [{\"e\": \"text\", \"f\": [[1, 0, 6], [1, 11, 4], [1, 49, 16]], \"t\": \"Simple and Easy to understand ReactJS tutorials. Free Source Code is also provided on GitHub\"}], \"e\": \"par\"}, {\"c\": [{\"c\": [{\"c\": [{\"e\": \"link\", \"t\": \"ReactJS Tutorial# 1 \\u2013 An Introduction\", \"u\": \"https://www.opencodez.com/web-development/reactjs-an-introduction.htm\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"link\", \"t\": \"ReactJS Tutorial# 2 \\u2013 Components and Props\", \"u\": \"https://www.opencodez.com/web-development/reactjs-components-and-props.htm\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"link\", \"t\": \"ReactJS Tutorial# 3 \\u2013 Component State and Lifecycle\", \"u\": \"https://www.opencodez.com/web-development/reactjs-component-state-and-lifecycle.htm\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"link\", \"t\": \"ReactJS Tutorial# 4 \\u2013 Forms, Events, and Keys\", \"u\": \"https://www.opencodez.com/web-development/reactjs-tutorial-4-forms-events-keys.htm\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"link\", \"t\": \"ReactJS Tutorial# 5 \\u2013 React Flux and Redux\", \"u\": \"https://www.opencodez.com/web-development/reactjs-tutorial-5-react-flux-and-redux.htm\"}], \"e\": \"par\"}], \"e\": \"li\"}, {\"c\": [{\"c\": [{\"e\": \"link\", \"t\": \"ReactJS Tutorial# 6 \\u2013 ReactJS Best Practices\", \"u\": \"https://www.opencodez.com/web-development/reactjs-best-practices.htm\"}], \"e\": \"par\"}], \"e\": \"li\"}], \"e\": \"list\", \"o\": true}, {\"c\": [{\"e\": \"text\", \"t\": \"Hope this helps !\"}], \"e\": \"par\"}]}",
+                "richtextMedia": []
+              },
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/yWLIFQFwyxjPAWW7jS3_vbW0YWbVsizoAPv7g6Uykyw.jpg?auto=webp&s=2045b95b586968b851cc833e5a4b1ba70b5bd827",
+                    "dimensions": { "width": 757, "height": 462 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/yWLIFQFwyxjPAWW7jS3_vbW0YWbVsizoAPv7g6Uykyw.jpg?width=108&height=65&crop=smart&auto=webp&s=a4a154404f34ea70b0729082f876cae12f7e7690",
+                    "dimensions": { "width": 108, "height": 65 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/yWLIFQFwyxjPAWW7jS3_vbW0YWbVsizoAPv7g6Uykyw.jpg?width=216&height=131&crop=smart&auto=webp&s=4a0f7373c3a03ee512727edcdcdbc89e8c3f46b8",
+                    "dimensions": { "width": 216, "height": 131 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/yWLIFQFwyxjPAWW7jS3_vbW0YWbVsizoAPv7g6Uykyw.jpg?width=320&height=195&crop=smart&auto=webp&s=b23fd5504a55a4dd351046f6ae98380733214e67",
+                    "dimensions": { "width": 320, "height": 195 }
+                  },
+                  "xlarge": {
+                    "url": "https://external-preview.redd.it/yWLIFQFwyxjPAWW7jS3_vbW0YWbVsizoAPv7g6Uykyw.jpg?width=640&height=390&crop=smart&auto=webp&s=ed676c8aa831f66e6544e680db3ac48103890418",
+                    "dimensions": { "width": 640, "height": 390 }
+                  },
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": null,
+              "upvoteRatio": 0.9333333333333333,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2zldd",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#014980",
+                  "icon": "https://styles.redditmedia.com/t5_2zldd/styles/communityIcon_12zd9qt7we121.jpg"
+                },
+                "name": "reactjs",
+                "subscribers": 100099.0,
+                "title": "ReactJS - Building Web Apps w/JavaScript",
+                "type": "PUBLIC",
+                "path": "/r/reactjs/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/reactjs",
+                "postFlairSettings": { "position": "LEFT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-12T21:30:05.887000+0000",
+              "crosspostCount": 1,
+              "domain": "code.visualstudio.com",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a5mk9z",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a5mk9z?m=AQAACqqGXEvRro6L1ZNdWq2pzU5OBNcrM_KzKdjIcZspar0IWx7j",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a5mk9z?app_name=web2x&token=AQAAmmaFXNq-TpOrdlAqzQ5lC4uyetdCbeq3Nz5baVN6MyN38GrK&url=https%3A%2F%2Fcode.visualstudio.com%2Fupdates%2Fv1_30"
+              },
+              "permalink": "/r/programming/comments/a5mk9z/visual_studio_code_version_130_released/",
+              "score": 781.0,
+              "suggestedCommentSort": null,
+              "title": "Visual Studio Code (Version 1.30) Released",
+              "url": "https://code.visualstudio.com/updates/v1_30",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_8u5zt",
+                "name": "Niomar"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 236.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/IqXtU6HSDv3Rzeb8KCgtqEJhHj03uPrpSjSWHt7JXW4.jpg?auto=webp&s=d8ca2c18ffc4146ca8d29f689043ebfebf8a889e",
+                    "dimensions": { "width": 1069, "height": 534 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/IqXtU6HSDv3Rzeb8KCgtqEJhHj03uPrpSjSWHt7JXW4.jpg?width=108&height=53&crop=smart&auto=webp&s=856896a9fbd1305b67c3c66954ce4cd8b275d77b",
+                    "dimensions": { "width": 108, "height": 53 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/IqXtU6HSDv3Rzeb8KCgtqEJhHj03uPrpSjSWHt7JXW4.jpg?width=216&height=107&crop=smart&auto=webp&s=37cda2bfbe2300e2f03c940ddf0b96971b09c07e",
+                    "dimensions": { "width": 216, "height": 107 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/IqXtU6HSDv3Rzeb8KCgtqEJhHj03uPrpSjSWHt7JXW4.jpg?width=320&height=159&crop=smart&auto=webp&s=13f0581b22c3a8dec150bf5e6ab57ad3564059ac",
+                    "dimensions": { "width": 320, "height": 159 }
+                  },
+                  "xlarge": {
+                    "url": "https://external-preview.redd.it/IqXtU6HSDv3Rzeb8KCgtqEJhHj03uPrpSjSWHt7JXW4.jpg?width=640&height=319&crop=smart&auto=webp&s=ac685f63e8c3cc8f8cdaa8f7c261e8535b7639d5",
+                    "dimensions": { "width": 640, "height": 319 }
+                  },
+                  "xxlarge": {
+                    "url": "https://external-preview.redd.it/IqXtU6HSDv3Rzeb8KCgtqEJhHj03uPrpSjSWHt7JXW4.jpg?width=960&height=479&crop=smart&auto=webp&s=3992dfecd2486bcb7f8d8ac2d8efc556a5d7be69",
+                    "dimensions": { "width": 960, "height": 479 }
+                  },
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/KZg4Jdz4JCsnUikeT5jcd3RsjZ4MV1K4wduGaG_TKYA.jpg",
+                "dimensions": { "width": 140, "height": 69 }
+              },
+              "upvoteRatio": 0.9148029818956337,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2fwo",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#002B36",
+                  "icon": "https://styles.redditmedia.com/t5_2fwo/styles/communityIcon_1bqa1ibfp8q11.png"
+                },
+                "name": "programming",
+                "subscribers": 1786256.0,
+                "title": "programming",
+                "type": "PUBLIC",
+                "path": "/r/programming/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/programming",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": false,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-12T20:32:25.983000+0000",
+              "crosspostCount": 1,
+              "domain": "medium.com",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a5m0ib",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a5m0ib?m=AQAACqqGXDYrRWowkl3LPNsSd6T5zzdvgrj5yLI6AQj8MBPU05wq",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a5m0ib?app_name=web2x&token=AQAAmmaFXFb7EKwOS-phOXIVDz3HlbkMs8i8T1tgPxP4Rsqni5rd&url=https%3A%2F%2Fmedium.com%2Fnetflix-techblog%2Four-learnings-from-adopting-graphql-f099de39ae5f"
+              },
+              "permalink": "/r/javascript/comments/a5m0ib/our_learnings_from_adopting_graphql_netflix/",
+              "score": 318.0,
+              "suggestedCommentSort": null,
+              "title": "Our learnings from adopting GraphQL (Netflix)",
+              "url": "https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_3bhyn",
+                "name": "magenta_placenta"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 46.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/2ur84gFltNA8MzH4y4OWR-iodRVVK-YjHcGkjZiLodQ.jpg?auto=webp&s=e7e0afd3164f8f2d31b5cd1ba0fcadceb1be6c83",
+                    "dimensions": { "width": 521, "height": 521 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/2ur84gFltNA8MzH4y4OWR-iodRVVK-YjHcGkjZiLodQ.jpg?width=108&height=108&crop=smart&auto=webp&s=de914087686a676bf6d968ae3678de464f76eb1e",
+                    "dimensions": { "width": 108, "height": 108 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/2ur84gFltNA8MzH4y4OWR-iodRVVK-YjHcGkjZiLodQ.jpg?width=216&height=216&crop=smart&auto=webp&s=b5ac61815096c119a3daeb7886e7f47a7cc3db7b",
+                    "dimensions": { "width": 216, "height": 216 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/2ur84gFltNA8MzH4y4OWR-iodRVVK-YjHcGkjZiLodQ.jpg?width=320&height=320&crop=smart&auto=webp&s=b00b88375981c5611e59b9d6155a384636ea2a81",
+                    "dimensions": { "width": 320, "height": 320 }
+                  },
+                  "xlarge": null,
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/9nH0mWgQOZoI_nW6GhV9Nk6SxUaVg96pf_xr81WGSeg.jpg",
+                "dimensions": { "width": 140, "height": 140 }
+              },
+              "upvoteRatio": 0.9704142011834319,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qh30",
+                "styles": {
+                  "legacyIcon": {
+                    "dimensions": { "width": 256, "height": 256 },
+                    "url": "https://a.thumbs.redditmedia.com/zDOFJTXd6fmlD58VDGypiV94Leflz11woxmgbGY6p_4.png"
+                  },
+                  "primaryColor": null,
+                  "icon": null
+                },
+                "name": "javascript",
+                "subscribers": 532880.0,
+                "title": "JavaScript",
+                "type": "PUBLIC",
+                "path": "/r/javascript/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/javascript",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": false,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-12T17:33:43.160000+0000",
+              "crosspostCount": 0,
+              "domain": "optician-sans.com",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a5karw",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a5karw?m=AQAACqqGXHLU2JZW-V-I_YjjGudVLqa7hMp-HET0plfTk9KRNWth",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a5karw?app_name=web2x&token=AQAAmmaFXFkuBiXH4mUr-xU1L542HyftAWejRrEZFq0Mvoc9Nhb-&url=https%3A%2F%2Foptician-sans.com%2F"
+              },
+              "permalink": "/r/web_design/comments/a5karw/optician_sans_a_free_font_based_on_the_historical/",
+              "score": 306.0,
+              "suggestedCommentSort": null,
+              "title": "OPTICIAN SANS - a free font based on the historical eye charts and optotypes used by opticians world wide",
+              "url": "https://optician-sans.com/",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_3bhyn",
+                "name": "magenta_placenta"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 19.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/vI3HS-PlJxTXlXnVdXAvyzQCg0H5Q5-tD7yW5NzX5LU.jpg?auto=webp&s=9903d4e99978854c84dc01f570b26dad87027ded",
+                    "dimensions": { "width": 1200, "height": 630 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/vI3HS-PlJxTXlXnVdXAvyzQCg0H5Q5-tD7yW5NzX5LU.jpg?width=108&height=56&crop=smart&auto=webp&s=4565e8ec8beb9885f0b3204e7b3c1d57cbcae377",
+                    "dimensions": { "width": 108, "height": 56 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/vI3HS-PlJxTXlXnVdXAvyzQCg0H5Q5-tD7yW5NzX5LU.jpg?width=216&height=113&crop=smart&auto=webp&s=c2e6865ceabff4d203db5af960607ab9eeaafa3a",
+                    "dimensions": { "width": 216, "height": 113 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/vI3HS-PlJxTXlXnVdXAvyzQCg0H5Q5-tD7yW5NzX5LU.jpg?width=320&height=168&crop=smart&auto=webp&s=d44c92956f3821e7db091492793f7055cfec0950",
+                    "dimensions": { "width": 320, "height": 168 }
+                  },
+                  "xlarge": {
+                    "url": "https://external-preview.redd.it/vI3HS-PlJxTXlXnVdXAvyzQCg0H5Q5-tD7yW5NzX5LU.jpg?width=640&height=336&crop=smart&auto=webp&s=e23fe12520d225fe9b661cff349934bac6e712af",
+                    "dimensions": { "width": 640, "height": 336 }
+                  },
+                  "xxlarge": {
+                    "url": "https://external-preview.redd.it/vI3HS-PlJxTXlXnVdXAvyzQCg0H5Q5-tD7yW5NzX5LU.jpg?width=960&height=504&crop=smart&auto=webp&s=23821cb1158bec2e53bf088cd4e1395e1d1b77da",
+                    "dimensions": { "width": 960, "height": 504 }
+                  },
+                  "xxxlarge": {
+                    "url": "https://external-preview.redd.it/vI3HS-PlJxTXlXnVdXAvyzQCg0H5Q5-tD7yW5NzX5LU.jpg?width=1080&height=567&crop=smart&auto=webp&s=19839fb7ad63e05f0a0e7302906843bccc17dac7",
+                    "dimensions": { "width": 1080, "height": 567 }
+                  }
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/1DlyWx8o67EEdKAGdl9OSwgVKlCEbXeiouNQ1aLQuxw.jpg",
+                "dimensions": { "width": 140, "height": 73 }
+              },
+              "upvoteRatio": 0.9722222222222222,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qh1m",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#4BA3AF",
+                  "icon": "https://styles.redditmedia.com/t5_2qh1m/styles/communityIcon_cpdgauc6r8g01.png"
+                },
+                "name": "web_design",
+                "subscribers": 363963.0,
+                "title": "web_design",
+                "type": "PUBLIC",
+                "path": "/r/web_design/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/web_design",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-12T17:07:28.544000+0000",
+              "crosspostCount": 0,
+              "domain": "youtu.be",
+              "editedAt": null,
+              "flair": {
+                "richtext": null,
+                "text": "Tutorial/Resource",
+                "type": "text",
+                "textColor": "DARK",
+                "template": {
+                  "id": "7e5395e2-650c-11e3-b9e3-12313b04ceaf",
+                  "type": "text",
+                  "text": "Tutorial/Resource",
+                  "richtext": null,
+                  "textColor": "DARK",
+                  "backgroundColor": null
+                }
+              },
+              "gildingTotals": [],
+              "id": "t3_a5k1kq",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a5k1kq?m=AQAACqqGXFfwlu6YACmJHTIu2ePUXp2V3iXStCK_Jk4_ijtt0iaF",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a5k1kq?app_name=web2x&token=AQAAmmaFXBE98jb10B-t9pW0dY84HjkcylaxeNa9Ns7tIVRxHty4&url=https%3A%2F%2Fyoutu.be%2FFGVkio4bnPQ"
+              },
+              "permalink": "/r/Unity2D/comments/a5k1kq/creating_objects_in_unity_using_the_factory/",
+              "score": 35.0,
+              "suggestedCommentSort": null,
+              "title": "Creating Objects in Unity using the Factory Pattern",
+              "url": "https://youtu.be/FGVkio4bnPQ",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_69oj0",
+                "name": "jweimann"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 5.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": "EMBED",
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/UFikdvyxLHRVLKg1N_vd5a3BO_1FATHp6-nbiPCtJlA.jpg?format=pjpg&auto=webp&s=4f6951af4740f0da11cd478d2b06ba327e99d86b",
+                    "dimensions": { "width": 480, "height": 360 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/UFikdvyxLHRVLKg1N_vd5a3BO_1FATHp6-nbiPCtJlA.jpg?width=108&height=81&crop=smart&format=pjpg&auto=webp&s=1c711e15d331b5e968012611232212147f2f7cae",
+                    "dimensions": { "width": 108, "height": 81 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/UFikdvyxLHRVLKg1N_vd5a3BO_1FATHp6-nbiPCtJlA.jpg?width=216&height=162&crop=smart&format=pjpg&auto=webp&s=157eb8e15fc66c2cb3d1944579d52c3ac59dd2fb",
+                    "dimensions": { "width": 216, "height": 162 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/UFikdvyxLHRVLKg1N_vd5a3BO_1FATHp6-nbiPCtJlA.jpg?width=320&height=240&crop=smart&format=pjpg&auto=webp&s=52daabdf579c083a2c8d4414da8e552d236196bf",
+                    "dimensions": { "width": 320, "height": 240 }
+                  },
+                  "xlarge": null,
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": {
+                  "embedHtml": "<iframe width=\"600\" height=\"338\" src=\"https://www.youtube.com/embed/FGVkio4bnPQ?feature=oembed&enablejsapi=1\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+                  "embedUrl": "https://www.redditmedia.com/mediaembed/a5k1kq",
+                  "url": "https://youtu.be/FGVkio4bnPQ",
+                  "dimensions": { "width": 600, "height": 338 },
+                  "attribution": {
+                    "title": "Creating Objects in Unity3D using the Factory Pattern",
+                    "description": null,
+                    "authorName": "Unity3d College",
+                    "authorUrl": "https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg",
+                    "providerName": "YouTube",
+                    "providerUrl": "https://www.youtube.com/"
+                  }
+                }
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/zctjxjZdTqzTG8AkpnNYUTrtpgx0WxRlO96l0TWVO6A.jpg",
+                "dimensions": { "width": 140, "height": 105 }
+              },
+              "upvoteRatio": 0.972972972972973,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2yfb2",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": null,
+                  "icon": null
+                },
+                "name": "Unity2D",
+                "subscribers": 44808.0,
+                "title": "Unity2D - Develop 2D games using Unity or similar engines",
+                "type": "PUBLIC",
+                "path": "/r/Unity2D/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/Unity2D",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-12T14:54:43.326000+0000",
+              "crosspostCount": 0,
+              "domain": "self.node",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a5iths",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": true,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a5iths?m=AQAACqqGXAOEUzumGv3RrQVhwKOmkrcKlCz8evs05Rb_630oZYKU",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://www.reddit.com/r/node/comments/a5iths/using_mongoose_to_handle_mongodb_transactions/"
+              },
+              "permalink": "/r/node/comments/a5iths/using_mongoose_to_handle_mongodb_transactions/",
+              "score": 29.0,
+              "suggestedCommentSort": null,
+              "title": "Using Mongoose to Handle MongoDB Transactions",
+              "url": "https://www.reddit.com/r/node/comments/a5iths/using_mongoose_to_handle_mongodb_transactions/",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "UP",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_17boug",
+                "name": "the_amazing_spork"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 27.0,
+              "content": {
+                "markdown": "The first time I worked with Node and Mongo the company was using Mongoose.  Later, at another job, a Sr. Dev said Mongoose was outdated and slow and we weren't going to use it.  So I just kind of took that as fact and have avoided it since.  But I've seen people talking about Mongoose lately, so I was curious what the general consensus is.  I'm building a web app using Node, Express, and Mongo.  It will start small but hopefully grow to around 50,000 visits per day over the first two years.  Mongo is being used for data storage and doing distance searches.  Do you think I could use Mongoose in this situation and not have issues as the site grows?  Thanks ahead of time.",
+                "richtext": "{\"document\": [{\"c\": [{\"e\": \"text\", \"t\": \"The first time I worked with Node and Mongo the company was using Mongoose.  Later, at another job, a Sr. Dev said Mongoose was outdated and slow and we weren't going to use it.  So I just kind of took that as fact and have avoided it since.  But I've seen people talking about Mongoose lately, so I was curious what the general consensus is.  I'm building a web app using Node, Express, and Mongo.  It will start small but hopefully grow to around 50,000 visits per day over the first two years.  Mongo is being used for data storage and doing distance searches.  Do you think I could use Mongoose in this situation and not have issues as the site grows?  Thanks ahead of time.\"}], \"e\": \"par\"}]}",
+                "richtextMedia": []
+              },
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": null,
+              "postEventInfo": null,
+              "thumbnail": null,
+              "upvoteRatio": 0.8918918918918919,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2reca",
+                "styles": {
+                  "legacyIcon": {
+                    "dimensions": { "width": 256, "height": 256 },
+                    "url": "https://b.thumbs.redditmedia.com/8RJ1zsSxLbTrSrRAhziwMynfkWVcuFNMXPsLqtGct1o.png"
+                  },
+                  "primaryColor": null,
+                  "icon": null
+                },
+                "name": "node",
+                "subscribers": 104746.0,
+                "title": "node.js",
+                "type": "PUBLIC",
+                "path": "/r/node/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/node",
+                "postFlairSettings": { "position": null, "isEnabled": false },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": false,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-12T17:43:51.737000+0000",
+              "crosspostCount": 0,
+              "domain": "github.com",
+              "editedAt": null,
+              "flair": {
+                "richtext": null,
+                "text": "Project Ideas",
+                "type": "text",
+                "textColor": "DARK",
+                "template": {
+                  "id": "c9c1b29a-b442-11e8-96a9-0e838875b43e",
+                  "type": "text",
+                  "text": "Project Ideas",
+                  "richtext": null,
+                  "textColor": "DARK",
+                  "backgroundColor": "#FFD635"
+                }
+              },
+              "gildingTotals": [],
+              "id": "t3_a5ke9u",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a5ke9u?m=AQAACqqGXF2xlEZpMQXbwRV2ZDWbCnEetyCXWZWTnTZumcTHHunL",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a5ke9u?app_name=web2x&token=AQAAmmaFXKxz1Z6hw0NmbRAwa32ih7ICEwgilwCHPNnV4CM3ccBg&url=https%3A%2F%2Fgithub.com%2Fdevhubapp%2Fdevhub"
+              },
+              "permalink": "/r/reactjs/comments/a5ke9u/devhubappdevhub_open_source_github_notifications/",
+              "score": 111.0,
+              "suggestedCommentSort": "CONFIDENCE",
+              "title": "devhubapp/devhub: Open source Github Notifications App with React Hooks + Typescript + Redux + 95% code share between React Native Web + React Native",
+              "url": "https://github.com/devhubapp/devhub",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_kcqtz",
+                "name": "swyx"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 23.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/kRStLdJSlDHoFDMd6ZVtb6t1njYmIiPkZDu8b11HRds.jpg?auto=webp&s=a428112e9e5cca7d5eef6a384ed907264ef196e4",
+                    "dimensions": { "width": 300, "height": 300 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/kRStLdJSlDHoFDMd6ZVtb6t1njYmIiPkZDu8b11HRds.jpg?width=108&height=108&crop=smart&auto=webp&s=c8aeb793015c8234c8e8f3a889dca50175b1fdc4",
+                    "dimensions": { "width": 108, "height": 108 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/kRStLdJSlDHoFDMd6ZVtb6t1njYmIiPkZDu8b11HRds.jpg?width=216&height=216&crop=smart&auto=webp&s=cc573b480bbfb9eedceb6e3508fd69edf3dd1ce8",
+                    "dimensions": { "width": 216, "height": 216 }
+                  },
+                  "large": null,
+                  "xlarge": null,
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/h0o17eifdFfX20qaXPCdVj1g6AqYr1D_i43WRroANSg.jpg",
+                "dimensions": { "width": 140, "height": 140 }
+              },
+              "upvoteRatio": 1.0,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2zldd",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#014980",
+                  "icon": "https://styles.redditmedia.com/t5_2zldd/styles/communityIcon_12zd9qt7we121.jpg"
+                },
+                "name": "reactjs",
+                "subscribers": 100099.0,
+                "title": "ReactJS - Building Web Apps w/JavaScript",
+                "type": "PUBLIC",
+                "path": "/r/reactjs/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/reactjs",
+                "postFlairSettings": { "position": "LEFT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-12T11:25:01.910000+0000",
+              "crosspostCount": 1,
+              "domain": "v.redd.it",
+              "editedAt": null,
+              "flair": {
+                "richtext": "[{\"e\": \"text\", \"t\": \"Show-Off\"}]",
+                "text": "Show-Off",
+                "type": "richtext",
+                "textColor": "DARK",
+                "template": {
+                  "id": "14ada858-4aed-11e5-9227-0e5e20c89e15",
+                  "type": "richtext",
+                  "text": "Show-Off",
+                  "richtext": "[{\"e\": \"text\", \"t\": \"Show-Off\"}]",
+                  "textColor": "DARK",
+                  "backgroundColor": null
+                }
+              },
+              "gildingTotals": [],
+              "id": "t3_a5hb5h",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a5hb5h?m=AQAACqqGXNhUuHle2efzutKoJPTvoegjxTo9a4oGl5DKaVsKEMeA",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://v.redd.it/5ksln6k50u321"
+              },
+              "permalink": "/r/Unity3D/comments/a5hb5h/made_this_earth_shader_the_shader_graph_is_the/",
+              "score": 971.0,
+              "suggestedCommentSort": null,
+              "title": "Made this Earth Shader. The Shader Graph is the most fun I had with Unity in a while :)",
+              "url": "https://v.redd.it/5ksln6k50u321",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_13fznyqa",
+                "name": "_TechnoPanda"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 49.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": "VIDEO",
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/Otkr_qcJDpXgtJXuq7TTq6jX3eKuJqR0C12H5Cwd9CU.png?format=pjpg&auto=webp&s=9be1f42765fa5b4da450be886fa5818682ed2393",
+                    "dimensions": { "width": 1280, "height": 720 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/Otkr_qcJDpXgtJXuq7TTq6jX3eKuJqR0C12H5Cwd9CU.png?width=108&height=60&crop=smart&format=pjpg&auto=webp&s=844dad7b962ba4a559611c06cfc6310f18f68467",
+                    "dimensions": { "width": 108, "height": 60 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/Otkr_qcJDpXgtJXuq7TTq6jX3eKuJqR0C12H5Cwd9CU.png?width=216&height=121&crop=smart&format=pjpg&auto=webp&s=a50fc2d797ef95128ea354bfb88b67593b50bca3",
+                    "dimensions": { "width": 216, "height": 121 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/Otkr_qcJDpXgtJXuq7TTq6jX3eKuJqR0C12H5Cwd9CU.png?width=320&height=180&crop=smart&format=pjpg&auto=webp&s=6852ac3775f7f25b299158631ba429d6efaad524",
+                    "dimensions": { "width": 320, "height": 180 }
+                  },
+                  "xlarge": {
+                    "url": "https://external-preview.redd.it/Otkr_qcJDpXgtJXuq7TTq6jX3eKuJqR0C12H5Cwd9CU.png?width=640&height=360&crop=smart&format=pjpg&auto=webp&s=d44b3ffb0526b0a03103ceb4211f6b64164c9fbe",
+                    "dimensions": { "width": 640, "height": 360 }
+                  },
+                  "xxlarge": {
+                    "url": "https://external-preview.redd.it/Otkr_qcJDpXgtJXuq7TTq6jX3eKuJqR0C12H5Cwd9CU.png?width=960&height=540&crop=smart&format=pjpg&auto=webp&s=6d08728325ab8add8d2b624fa2646fed7b768350",
+                    "dimensions": { "width": 960, "height": 540 }
+                  },
+                  "xxxlarge": {
+                    "url": "https://external-preview.redd.it/Otkr_qcJDpXgtJXuq7TTq6jX3eKuJqR0C12H5Cwd9CU.png?width=1080&height=607&crop=smart&format=pjpg&auto=webp&s=9c57599ba2a5c6a46679fe0ce9550f6ce8a9ab62",
+                    "dimensions": { "width": 1080, "height": 607 }
+                  }
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": {
+                  "hlsUrl": "https://v.redd.it/5ksln6k50u321/HLSPlaylist.m3u8",
+                  "dashUrl": "https://v.redd.it/5ksln6k50u321/DASHPlaylist.mpd",
+                  "scrubberMediaUrl": "https://v.redd.it/5ksln6k50u321/DASH_600_K",
+                  "dimensions": { "width": 1280, "height": 720 },
+                  "duration": 108,
+                  "isGif": false
+                },
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://b.thumbs.redditmedia.com/iAJNG3XOgu1t_74TBQ4UJ4mXCNRupvlxaQKIFb-n7yo.jpg",
+                "dimensions": { "width": 140, "height": 78 }
+              },
+              "upvoteRatio": 0.9839518555667001,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qwj8",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#646D73",
+                  "icon": null
+                },
+                "name": "Unity3D",
+                "subscribers": 114045.0,
+                "title": "Unity 3D - news, projects, conversation",
+                "type": "PUBLIC",
+                "path": "/r/Unity3D/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/Unity3D",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          },
+          {
+            "node": {
+              "__typename": "SubredditPost",
+              "createdAt": "2018-12-10T13:29:33.792000+0000",
+              "crosspostCount": 1,
+              "domain": "learnui.design",
+              "editedAt": null,
+              "flair": null,
+              "gildingTotals": [],
+              "id": "t3_a4vnro",
+              "isArchived": false,
+              "isContestMode": false,
+              "isHidden": false,
+              "isLocked": false,
+              "isNsfw": false,
+              "isOriginalContent": false,
+              "isSaved": true,
+              "isScoreHidden": false,
+              "isSelfPost": false,
+              "isSpoiler": false,
+              "isStickied": false,
+              "isVisited": false,
+              "liveCommentsWebsocket": "wss://reddit.com/link/a4vnro?m=AQAACqqGXBbBFoqAu-52nnIJ2_gCH-YnIQFIsIiVlUQUYt-7zd_v",
+              "moderationInfo": null,
+              "outboundLink": {
+                "expiresAt": "2019-03-10T19:33:46.238000+0000",
+                "url": "https://out.reddit.com/t3_a4vnro?app_name=web2x&token=AQAAmmaFXOGwpdSluzcp0vULbQ-gglLxQLR2E7XGSg6HTVSbqEHj&url=https%3A%2F%2Flearnui.design%2Ftools%2Fdata-color-picker.html"
+              },
+              "permalink": "/r/web_design/comments/a4vnro/data_color_picker_looks_like_a_spectacular_tool/",
+              "score": 388.0,
+              "suggestedCommentSort": null,
+              "title": "\u201cData Color Picker\u201d looks like a spectacular tool for any developer out there who appreciates the value of a good color palette, but lacks the ability to put one together.",
+              "url": "https://learnui.design/tools/data-color-picker.html",
+              "whitelistStatus": "ALL_ADS",
+              "voteState": "NONE",
+              "authorInfo": {
+                "__typename": "Redditor",
+                "id": "t2_7ccf",
+                "name": "speckz"
+              },
+              "authorOnlyInfo": null,
+              "commentCount": 32.0,
+              "content": null,
+              "distinguishedAs": null,
+              "isCrosspostable": true,
+              "isMediaOnly": false,
+              "isPollIncluded": false,
+              "media": {
+                "typeHint": null,
+                "still": {
+                  "source": {
+                    "url": "https://external-preview.redd.it/0Sv4g8s7Azk-CjOjuKDki7Cyk4QqvhYROwBZBA8rre8.jpg?auto=webp&s=e247f9dca854b8c8b84ba23c686060774eb9b53b",
+                    "dimensions": { "width": 379, "height": 356 }
+                  },
+                  "small": {
+                    "url": "https://external-preview.redd.it/0Sv4g8s7Azk-CjOjuKDki7Cyk4QqvhYROwBZBA8rre8.jpg?width=108&height=101&crop=smart&auto=webp&s=09681de69e5fc1abcef3ae443fc810167121adb5",
+                    "dimensions": { "width": 108, "height": 101 }
+                  },
+                  "medium": {
+                    "url": "https://external-preview.redd.it/0Sv4g8s7Azk-CjOjuKDki7Cyk4QqvhYROwBZBA8rre8.jpg?width=216&height=202&crop=smart&auto=webp&s=b5934061d3a3499908921015c5fe63a9d67c6b27",
+                    "dimensions": { "width": 216, "height": 202 }
+                  },
+                  "large": {
+                    "url": "https://external-preview.redd.it/0Sv4g8s7Azk-CjOjuKDki7Cyk4QqvhYROwBZBA8rre8.jpg?width=320&height=300&crop=smart&auto=webp&s=b9542897d765e57d3e5d85a5d75c350422f23d0a",
+                    "dimensions": { "width": 320, "height": 300 }
+                  },
+                  "xlarge": null,
+                  "xxlarge": null,
+                  "xxxlarge": null
+                },
+                "obfuscatedStill": { "source": null },
+                "animated": null,
+                "streaming": null,
+                "video": null
+              },
+              "postEventInfo": null,
+              "thumbnail": {
+                "url": "https://a.thumbs.redditmedia.com/NXxgfkUkRnqJsXhOHCWvQ-ClsH8qn1-KwmAsT40BPO0.jpg",
+                "dimensions": { "width": 140, "height": 131 }
+              },
+              "upvoteRatio": 0.9801980198019802,
+              "viewCount": null,
+              "subreddit": {
+                "id": "t5_2qh1m",
+                "styles": {
+                  "legacyIcon": null,
+                  "primaryColor": "#4BA3AF",
+                  "icon": "https://styles.redditmedia.com/t5_2qh1m/styles/communityIcon_cpdgauc6r8g01.png"
+                },
+                "name": "web_design",
+                "subscribers": 363963.0,
+                "title": "web_design",
+                "type": "PUBLIC",
+                "path": "/r/web_design/",
+                "isNSFW": false,
+                "isQuarantined": false,
+                "wls": "ALL_ADS",
+                "prefixedName": "r/web_design",
+                "postFlairSettings": { "position": "RIGHT", "isEnabled": true },
+                "originalContentCategories": [],
+                "isThumbnailsEnabled": true,
+                "isFreeFormReportingAllowed": true
+              },
+              "crosspostRoot": null
+            }
+          }
+        ]
+      },
+      "redditor": {}
+    }
+  }
+}
