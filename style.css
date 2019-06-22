@@ -1,32 +1,87 @@
-@font-face {
-  font-family: "Material Icons";
-  font-style: normal;
-  font-weight: 400;
-  src: local("Material Icons"), local("MaterialIcons-Regular.woff") format(woff);
+html {
+  --color1: #f5cce8;
+  --color2: #ec9ded;
+  --color3: #c880b7;
+  --color4: #9f6ba0;
+  --color5: #4a2040;
+  --link-background: #9f6ba02f;
+  background: rgb(1, 16, 19);
 }
 
-.material-icons {
-  font-family: "Material Icons";
-  font-weight: normal;
-  font-style: normal;
-  font-size: 24px; /* Preferred icon size */
-  display: inline-block;
-  line-height: 1;
-  text-transform: none;
-  letter-spacing: normal;
-  word-wrap: normal;
-  white-space: nowrap;
-  direction: ltr;
-
-  /* Support for all WebKit browsers. */
-  -webkit-font-smoothing: antialiased;
-  /* Support for Safari and Chrome. */
-  text-rendering: optimizeLegibility;
+main {
+  min-width: 200px;
 }
 
 .saved-link {
-  border: 1px solid blue;
+  border: 3px solid var(--color5);
+  background: var(--link-background);
+  border-radius: 10px;
+  margin: 10px 5px;
+  padding: 5%;
+  transition: 0.1s;
+  word-wrap: break-word;
+  display: flex;
+  cursor: pointer;
+  flex-direction: column;
+  justify-items: center;
+  justify-content: stretch;
+  align-items: center;
+  align-content: stretch;
+}
+
+h3 {
+  text-align: center;
+  color: var(--color1);
+  font-size: 1rem;
+}
+
+.saved-link a {
+  text-decoration: none;
+  text-overflow: ellipsis;
+}
+
+.saved-link {
+  color: var(--color2);
+}
+
+.saved-link :visited {
+  color: var(--color1);
+}
+
+.saved-link .title {
+  font-size: 0.8rem;
+  margin: 0;
+}
+
+.saved-link .domain {
+  font-size: 0.5rem;
+  margin: 1%;
+}
+
+.saved-link .title::before {
+  content: "";
+  display: inline-block;
+  background: url("baseline-bookmark-24px.svg") no-repeat var(--color1);
+  border-radius: 25%;
+  width: 24px;
+  height: 24px;
+  margin-right: 0.3rem;
+}
+
+.saved-link:hover {
+  background: var(--color5);
+  color: var(--color1);
+  box-shadow: 0px 0px 10px 3px var(--color4);
+}
+
+.subreddit-link {
+  background: var(--color1);
+  color: var(--color5);
+  padding: 0px 10px;
   border-radius: 5px;
-  margin: 1 rem;
-  padding: 1.5 rem;
+}
+
+.subreddit-link:hover {
+  background: var(--color3);
+  color: var(--color1);
 }
