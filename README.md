@@ -3,6 +3,8 @@ Chrome Extension that shows saved reddit bookmarks
 
 [Chome Store Link](https://chrome.google.com/webstore/detail/reddit-stash/inhipkcfbhpbdeciibgjjghbnijhfjfo)
 
+![Screenshot](./Screen%20Shot%202019-06-23%20at%204.06.06%20PM.png)
+
 ## About
 Reddit Stash is a Chrome Extension that shows 'Saved Posts' from your reddit account. It requires you to be logged into reddit to work, but besides that requires no configuration.
 
