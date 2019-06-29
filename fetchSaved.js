@@ -56,21 +56,3 @@ const fetchFromFeed = async (
     console.error(err);
   }
 };
-
-async function fetchFeed() {
-  chrome.storage.sync.get(["redditStashBaseURL"], async result => {
-    console.log(result.redditStashBaseURL);
-
-    const res = await fetch(generateStashUrl(result.redditStashBaseURL));
-    const json = await res.json();
-
-    const main = document.querySelector("main");
-
-    json.data.children.forEach(element => {
-      const el = document.createElement("saved-link");
-      el.data = element.data;
-      console.log(element.data);
-      main.appendChild(el);
-    });
-  });
-}
