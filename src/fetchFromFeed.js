@@ -1,27 +1,4 @@
-import "./saved-link.js";
-
-window.addEventListener("load", async () => {
-  //fetchFeed();
-  const stash = await fetchFromFeed({
-    limit: 100,
-    after: "",
-    runRecursive: true
-  });
-  console.log(stash);
-});
-
-const generateStashUrl = apiKey => {
-  return `https://www.reddit.com/saved.json?feed=${apiKey}`;
-};
-
-const chromseStorageSyncGetAsync = keys => {
-  return new Promise((resolve, reject) => {
-    chrome.storage.sync.get([...keys], result => {
-      if (chrome.runtime.lastError) reject(chrome.runtime.lastError);
-      resolve(result);
-    });
-  });
-};
+import { chromeStorageSyncGetAsync } from "./chromeAsyncUtils.js";
 
 const fetchFromFeed = async (
   options = {
@@ -31,7 +8,7 @@ const fetchFromFeed = async (
   }
 ) => {
   try {
-    const baseURLObj = await chromseStorageSyncGetAsync(["redditStashBaseURL"]);
+    const baseURLObj = await chromeStorageSyncGetAsync(["redditStashBaseURL"]);
     const baseURL = baseURLObj.redditStashBaseURL;
     const url = new URL(baseURL);
 
@@ -56,3 +33,5 @@ const fetchFromFeed = async (
     console.error(err);
   }
 };
+
+export default fetchFromFeed;

@@ -1,3 +1,5 @@
+import { chromeStorageSyncSetAsync } from "./src/chromeAsyncUtils.js";
+
 const redditFeedUrl = "https://www.reddit.com/prefs/feeds";
 
 const setRedditStashBaseURL = baseURL => {
@@ -5,7 +7,7 @@ const setRedditStashBaseURL = baseURL => {
 };
 
 const getKeyFromFeed = feedURL => {
-  chrome.storage.sync.get({ redditStashBaseURL: "" }, result => {
+  chrome.storage.sync.get({ redditStashBaseURL: "" }, async result => {
     if (result.redditStashBaseURL !== "") return;
 
     const xhr = new XMLHttpRequest();
@@ -20,7 +22,8 @@ const getKeyFromFeed = feedURL => {
       const savedLinkFeed = elements.find(element => {
         return /saved.json/.test(element);
       });
-      setRedditStashBaseURL(savedLinkFeed.href);
+      await chromeStorageSyncSetAsync({ redditStashBaseURL: savedLinkFeed.href });
+      console.log('initial baseURL scraped');
     };
 
     xhr.send();
