@@ -13,9 +13,10 @@ No dependencies, but it does use Web Components & regular old CSS for styling.
 
 ## New Features in 0.2
 - Crawls Entire Saved Link history for logged in user and saves results locally.
-- Searchable by title, subreddit, author, domain, and self-text. 
+- Live Search by title, subreddit, author, domain, and self-text. 
+- Support for saved comments.
 - Better list styling.
-- Refresh button
+- Refresh button added.
 
 Icons used:
 Material Bookmark Icon: https://material.io/tools/icons/?search=bookm&icon=bookmark_border&style=round
