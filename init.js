@@ -14,7 +14,8 @@ window.addEventListener("load", async () => {
   document
     .querySelector("#button-refresh")
     .addEventListener("click", async () => {
-      await runUpdate();
+      runUpdate();
+      console.log("sdfsdf");
     });
 });
 
@@ -54,7 +55,7 @@ const runUpdate = async () => {
   if (!newLinks.length) return;
 
   const newStash = await addLinksToStash(newLinks);
-  await updateStashView(newStash);
+  updateStashView(newStash);
 };
 
 const fetchCompareChanges = async latestID => {
@@ -98,7 +99,7 @@ const updateStashView = async localStash => {
     : document.createElement("stash-view");
   stashView.data = data.redditStashLocalStorage;
   content.appendChild(stashView);
-  return;
+  return true;
 };
 
 const completeStash = async () => {
