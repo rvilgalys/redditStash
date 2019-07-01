@@ -1,9 +1,9 @@
 # redditStash
 Chrome Extension that shows saved reddit bookmarks
 
-[Chome Store Link](https://chrome.google.com/webstore/detail/reddit-stash/inhipkcfbhpbdeciibgjjghbnijhfjfo)
+[Chrome Store Link](https://chrome.google.com/webstore/detail/reddit-stash/inhipkcfbhpbdeciibgjjghbnijhfjfo)
 
-![Screenshot](./Screen%20Shot%202019-06-23%20at%204.06.06%20PM.png)
+![Screenshot](./screenShot0.2.png)
 
 ## About
 Reddit Stash is a Chrome Extension that shows 'Saved Posts' from your reddit account. It requires you to be logged into reddit to work, but besides that requires no configuration.
@@ -11,10 +11,11 @@ Reddit Stash is a Chrome Extension that shows 'Saved Posts' from your reddit acc
 ## Tech Stack
 No dependencies, but it does use Web Components & regular old CSS for styling.
 
-## Todo:
-- Search
-- Pagination
-- Local Storage of Links
+## New Features in 0.2
+- Crawls Entire Saved Link history for logged in user and saves results locally.
+- Searchable by title, subreddit, author, domain, and self-text. 
+- Better list styling.
+- Refresh button
 
 Icons used:
 Material Bookmark Icon: https://material.io/tools/icons/?search=bookm&icon=bookmark_border&style=round
